@@ -1,0 +1,2929 @@
+city,Population,Household Income,Median Age,Number of Breweries in City,Market Segment Counts
+Government Camp,139.0,250001.0,59.7,1,Entry
+Still River,398.0,181810.0,42.3,1,Entry
+Mc Lean,26258.0,146483.5,42.7,2,Entry
+Bolton,4967.0,146029.0,43.1,2,Entry
+Pennington,13312.0,144250.0,44.1,1,Entry
+Dowell,219.0,143523.0,57.8,1,Entry
+Sammamish,21408.0,142926.0,37.3,1,Entry
+Trabuco Canyon,33377.0,142803.0,39.8,1,Entry
+Bethesda,32087.0,142435.0,42.05,2,Entry
+Laytonsville,14157.0,141648.0,44.2,1,Entry
+Western Springs,13008.0,139257.0,42.4,1,Entry
+Long Valley,12876.0,137583.0,43.7,1,Entry
+Brookeville,7186.0,137411.0,45.8,1,Entry
+Colts Neck,10146.0,136184.0,43.2,1,Entry
+Medfield,12136.0,133931.0,43.4,2,Entry
+Berkeley Heights,12200.0,133569.0,43.4,1,Entry
+Shawnee on Delaware,272.0,132612.0,43.9,1,Entry
+Hopkinton,15271.0,129578.0,39.5,1,Entry
+Wilmette,27268.0,129551.0,43.8,1,Entry
+Chantilly,23359.666666666668,129452.66666666667,34.03333333333334,3,Entry
+Purcellville,17262.0,129180.0,37.4,7,Up and Coming
+San Ramon,36932.5,128509.0,37.8,2,Entry
+Los Gatos,10803.0,128100.66666666667,47.73333333333333,3,Entry
+Aldie,12468.0,127464.0,32.6,1,Entry
+Vienna,23941.0,127205.0,38.5,1,Entry
+Lake Zurich,42206.0,126999.0,41.4,1,Entry
+Long Grove,42206.0,126999.0,41.4,1,Entry
+Landenberg,11406.0,126621.0,42.3,1,Entry
+Basking Ridge,26397.0,125837.0,42.9,1,Entry
+Ellicott City,40829.0,125257.0,40.6,2,Entry
+South Glastonbury,6082.0,124750.0,44.0,1,Entry
+Whitehouse Station,9934.0,124712.0,44.7,1,Entry
+South Orange,16435.0,124213.0,35.7,2,Entry
+Round Hill,6588.0,124180.0,38.4,1,Entry
+Huntingtown,14422.0,123906.0,42.3,1,Entry
+Fulshear,5409.0,123703.0,45.1,1,Entry
+Blauvelt,5175.0,122857.0,41.8,1,Entry
+Ashburn,57758.0,122115.0,34.4,6,Up and Coming
+Key Biscayne,12560.0,121624.0,40.9,1,Entry
+Snoqualmie,12690.0,121415.0,34.8,2,Entry
+Walnut Creek,26672.0,121067.0,46.1,1,Entry
+Moraga,15064.0,120960.0,47.4,1,Entry
+Victoria,6784.0,120658.0,35.9,1,Entry
+South Barrington,44031.0,120632.0,46.3,1,Entry
+Lake Barrington,44031.0,120632.0,46.3,1,Entry
+Barrington,44031.0,120632.0,46.3,1,Entry
+Derwood,14176.0,120603.0,43.1,1,Entry
+Wexford,22369.0,120432.0,41.5,2,Entry
+New City,30909.0,119764.0,44.4,1,Entry
+El Dorado Hills,40829.0,119382.0,40.7,1,Entry
+Ada,19366.0,118761.0,39.3,1,Entry
+Hopewell,4782.0,118656.0,47.1,1,Entry
+Parkton,7052.0,118450.0,45.1,2,Entry
+San Carlos,29531.0,117679.0,42.0,2,Entry
+Pleasanton,41638.0,117475.0,42.2,1,Entry
+Stevenson Ranch,19800.0,116420.0,37.0,1,Entry
+Falls Church,21844.0,115852.33333333333,37.46666666666667,3,Entry
+Pipersville,6864.0,115725.0,42.6,1,Entry
+Delaplane,1289.0,115667.0,47.0,1,Entry
+del Mar,13403.0,114880.0,49.8,1,Entry
+Owings,9556.0,114539.0,43.7,2,Entry
+Libertyville,29480.0,114284.0,44.5,1,Entry
+Lansdowne,47889.0,113668.0,35.5,1,Entry
+Buckingham,20820.0,113606.0,41.5,1,Entry
+Timnath,880.0,113106.0,31.7,1,Entry
+Andover,33746.0,112681.0,42.7,2,Entry
+Keller,35660.0,111606.0,39.4,1,Entry
+Highland Park,29814.0,111549.0,45.2,1,Entry
+Newtown,16554.0,111125.0,44.3,1,Entry
+Polk City,5306.0,111000.0,40.8,1,Entry
+Asbury,3603.0,110884.0,43.3,1,Entry
+Mill Valley,30650.0,110221.0,45.5,2,Entry
+Burlingame,41480.0,109775.0,41.9,1,Entry
+Cherry Hill,30845.0,109752.0,44.1,1,Entry
+Malvern,24743.0,109706.0,41.5,2,Entry
+Port Jefferson,9351.0,109696.0,43.3,1,Entry
+Agoura Hills,26218.0,109675.0,44.3,2,Entry
+Acton,21804.0,109578.0,41.9,2,Entry
+San Clemente,30753.25,109084.5,39.4,4,Up and Coming
+Excelsior,17387.0,108911.0,45.4,1,Entry
+Trumbull,36251.0,108854.0,43.6,1,Entry
+Collegeville,39344.0,108814.0,37.0,2,Entry
+Point Lookout,1309.0,108664.0,48.5,1,Entry
+Nokesville,7891.0,108438.0,41.3,1,Entry
+Broad Run,1422.0,108333.0,45.5,1,Entry
+White Plains,18337.0,108047.0,41.7,1,Entry
+Yorba Linda,47786.0,108008.0,42.1,1,Entry
+Crofton,26636.0,107715.0,34.2,1,Entry
+Woodinville,22370.0,107654.0,42.39999999999999,12,Up and Coming
+Monument,20367.0,107475.0,43.5,1,Entry
+Hoboken,50929.0,107366.0,31.2,1,Entry
+Mahopac,26643.0,106890.0,42.0,1,Entry
+Hingham,22330.0,106854.0,43.8,2,Entry
+Dulles,9857.0,106797.0,33.7,2,Entry
+Los Alamos,17979.0,106686.0,43.7,1,Entry
+Leesburg,36819.63636363636,106538.72727272728,38.11818181818182,11,Up and Coming
+Scotts Valley,14993.0,106519.0,40.7,1,Entry
+Oyster Bay,8981.0,106120.0,45.9,1,Entry
+Pittsford,32537.0,106113.0,45.9,1,Entry
+Harwinton,9395.0,105250.0,42.2,1,Entry
+Allen,54396.0,105047.33333333333,35.53333333333333,3,Entry
+Dobbs Ferry,10948.0,105000.0,41.5,1,Entry
+Highlands Ranch,31372.5,104985.0,36.2,4,Up and Coming
+Bala Cynwyd,9492.0,104933.0,43.3,1,Entry
+West Islip,25821.0,104923.0,42.2,1,Entry
+Herndon,41673.0,104371.0,35.3,2,Entry
+Bloomfield Hills,16667.0,104325.0,47.9,1,Entry
+Edina,8819.0,104211.0,47.1,1,Entry
+Lincolnshire,8132.0,104196.0,49.8,1,Entry
+Westlake Village,31477.5,103822.75,44.425,4,Up and Coming
+Stafford,52564.0,103818.0,33.7,1,Entry
+Bryn Mawr,20900.0,103737.0,36.5,1,Entry
+Gaithersburg,24521.5,103312.0,39.25,4,Up and Coming
+Middleburg,2428.0,103214.0,47.0,1,Entry
+Carmel,39664.6,102835.4,39.21999999999999,5,Up and Coming
+Larkspur,6123.5,102802.5,47.45,2,Entry
+Creve Coeur,19915.0,102708.0,43.0,1,Entry
+Katy,47620.5,102438.5,33.65,4,Up and Coming
+Hull,5337.0,102063.5,57.75,2,Entry
+Flemington,30430.0,101922.0,43.7,2,Entry
+Hermosa Beach,19605.0,101655.0,37.5,2,Entry
+Redondo Beach,40574.0,101575.0,38.9,1,Entry
+Chalfont,21694.0,101522.0,39.4,1,Entry
+The Woodlands,37028.0,101383.0,43.1,1,Entry
+Westtown,2759.0,101121.0,43.7,1,Entry
+Ridgefield,18976.0,101080.33333333333,44.5,3,Entry
+Park City,14186.0,100914.66666666667,39.6,3,Entry
+Westborough,18371.0,100905.0,40.4,2,Entry
+Scituate,17730.0,100833.0,45.4,2,Entry
+Morristown,43760.0,100832.0,41.5,1,Entry
+Parker,57110.0,100739.0,34.9,3,Entry
+Dublin,40850.0,100629.0,35.25,2,Entry
+Wrentham,11058.0,100574.0,44.2,1,Entry
+Northbrook,40095.0,100520.0,47.1,1,Entry
+Marina del Rey,21536.0,100441.0,41.7,1,Entry
+North Easton,12625.0,100429.0,38.8,1,Entry
+Issaquah,27290.666666666668,100420.66666666667,39.800000000000004,3,Entry
+Half Moon Bay,18199.0,100394.0,44.4,3,Entry
+Ambler,33342.0,100326.0,43.3,2,Entry
+Berwyn,29082.333333333332,100318.66666666667,41.6,3,Entry
+Middlefield,3288.0,100227.0,44.0,1,Entry
+Suwanee,68650.0,99931.0,36.2,1,Entry
+Algonquin,32166.0,99655.0,39.6,2,Entry
+Livermore,43386.71428571428,99542.85714285714,38.871428571428574,7,Up and Coming
+Chatham,11714.0,99528.5,42.55,2,Entry
+Long Lake,5966.0,99485.0,44.4,3,Entry
+La Jolla,40114.0,99367.0,39.1,4,Up and Coming
+Collierville,48641.0,99256.0,39.0,1,Entry
+Lakeville,48198.0,99243.0,36.3,2,Entry
+Lorton,32986.0,99025.0,34.8,3,Entry
+Jersey City,37472.0,98952.0,33.6,2,Entry
+Thousand Oaks,39430.0,98878.5,42.3,2,Entry
+Rancho Santa Margarita,44767.0,98821.0,34.8,1,Entry
+Prior Lake,30650.0,98799.0,38.4,1,Entry
+Lone Tree,18550.0,98687.0,36.4,2,Entry
+Johns Creek,53793.5,98604.5,37.75,2,Entry
+Marblehead,19958.0,98399.0,44.7,1,Entry
+Lake Ridge,54216.0,98169.0,35.8,1,Entry
+Flossmoor,9007.0,98140.0,46.8,1,Entry
+Aliso Viejo,50820.0,97931.0,35.8,1,Entry
+Fairfax,39862.0,97862.0,37.36666666666667,3,Entry
+Silverado,2146.0,97717.0,47.4,1,Entry
+Corona,51957.4,97675.6,33.98,5,Up and Coming
+Chesapeake Beach,10071.0,97649.0,35.8,1,Entry
+Rockville,34682.25,97431.25,41.650000000000006,4,Up and Coming
+wayzata ,14875.0,97267.0,47.2,1,Entry
+Wayzata,14875.0,97267.0,47.2,1,Entry
+Warrenton,15376.0,97183.5,41.599999999999994,2,Entry
+Moorpark,35847.0,97079.0,36.5,1,Entry
+Grosse Pointe Park,16860.0,96975.0,42.5,1,Entry
+Mequon,5585.0,96793.0,46.1,1,Entry
+Solon,24154.0,96750.0,43.5,1,Entry
+New Hope,14105.0,96685.0,49.6,2,Entry
+Saint Johns,39063.0,96166.0,38.7,1,Entry
+Chesapeake,61868.0,96091.0,39.9,1,Entry
+Odenton,31219.0,95919.0,34.3,1,Entry
+Laguna Beach,23559.0,95865.0,48.8,1,Entry
+Apex,32139.0,95816.0,36.5,2,Entry
+Saint John,14089.0,95733.0,42.0,2,Entry
+Woodbridge,48210.0,95654.2,36.160000000000004,5,Up and Coming
+Nolensville,9524.0,95580.0,34.8,1,Entry
+Springboro,24517.0,95500.0,39.1,1,Entry
+Elkhorn,16310.0,95338.0,35.2,1,Entry
+Natick,33353.0,95328.0,41.6,1,Entry
+Mokena,24678.0,95208.0,40.6,1,Entry
+Morgan Hill,46100.0,95047.0,39.0,1,Entry
+Duvall,10964.0,95025.0,38.0,1,Entry
+Centerport,6369.0,94929.0,42.7,1,Entry
+Tuckahoe,10479.0,94897.0,38.8,1,Entry
+Delafield,8120.0,94873.0,43.3,2,Entry
+Mountain View,20704.0,94838.5,35.95,2,Entry
+Reston,18127.0,94806.0,37.8,1,Entry
+Harwood,3672.0,94741.0,47.8,1,Entry
+Kirkland,34412.666666666664,94729.33333333333,37.666666666666664,3,Entry
+Holbrook,27688.0,94527.0,41.1,4,Up and Coming
+Fort Mill,27047.0,94463.0,37.9,1,Entry
+Pacifica,37943.0,94453.0,41.7,1,Entry
+Buffalo Grove,41645.0,94351.0,42.6,1,Entry
+Pearl River,14794.0,94271.0,41.2,2,Entry
+Manasquan,12372.0,94250.0,48.2,1,Entry
+Shelburne,7387.0,94196.0,46.1,1,Entry
+Charlton,13034.0,93963.0,42.2,2,Entry
+Naperville,40872.666666666664,93951.0,38.13333333333333,3,Entry
+Granville,12710.0,93932.0,36.6,2,Entry
+Center Moriches,7425.0,93929.0,38.8,1,Entry
+Clancy,4785.0,93913.0,46.3,1,Entry
+Healy,1109.0,93750.0,40.0,1,Entry
+Mukilteo,20457.0,93717.0,42.4,2,Entry
+Yarrow Point,30072.0,93521.0,37.4,1,Entry
+Valdez,4000.0,93313.0,33.8,1,Entry
+Elmhurst,46450.0,93308.0,40.2,1,Entry
+Waxhaw,45200.0,93297.0,37.5,1,Entry
+GIBSONIA,26934.0,93210.0,44.4,1,Entry
+Gibsonia,26934.0,93210.0,44.4,1,Entry
+Fox Island,3816.0,93188.0,44.0,1,Entry
+Chesterfield,41732.0,93110.0,48.5,1,Entry
+Cream Ridge,4530.0,93106.0,40.7,1,Entry
+Haddam,3025.0,92989.0,41.0,1,Entry
+Cypress,64938.0,92976.5,32.4,2,Entry
+Irvine,21874.0,92925.5,35.349999999999994,2,Entry
+Lake Bluff,9867.0,92861.0,42.3,1,Entry
+Chagrin Falls,17014.5,92848.5,46.55,2,Entry
+Cary,35679.75,92840.75,37.35,4,Up and Coming
+Centreville,19364.5,92825.0,36.95,2,Entry
+Sterling,24212.833333333332,92823.83333333333,34.55,6,Up and Coming
+Cool,4341.0,92721.0,41.1,1,Entry
+Bulverde,10278.0,92560.0,46.2,1,Entry
+Suffield,12524.0,92546.0,39.9,1,Entry
+Spotsylvania,13821.0,92521.0,36.7,1,Entry
+Marlton,45663.0,92344.0,40.1,1,Entry
+Kenilworth,7977.0,92310.0,40.4,1,Entry
+Mililani,54731.0,92309.0,38.0,1,Entry
+Salado,5747.0,92222.0,45.8,1,Entry
+Palatine,38450.0,92212.0,41.6,1,Entry
+Manlius,16201.0,92194.0,42.0,2,Entry
+Stonington,5299.0,92183.0,49.3,2,Entry
+East Hampton,12603.0,92100.0,40.6,1,Entry
+Lemont,23177.0,92089.0,41.7,1,Entry
+Londonderry,24013.0,92053.0,39.9,4,Up and Coming
+Pompton Lakes,11126.0,92033.0,39.8,1,Entry
+Downingtown,46691.0,91997.0,40.2,2,Entry
+New Lenox,34516.0,91980.0,36.9,2,Entry
+Mars,14608.0,91888.0,40.2,1,Entry
+Laguna Hills,28607.0,91878.0,42.7,1,Entry
+Upper Marlboro,42874.0,91855.0,40.1,1,Entry
+Foxboro,16990.0,91601.0,41.2,1,Entry
+Sunnyvale,29918.666666666668,91498.66666666667,33.23333333333334,3,Entry
+Honeoye Falls,8289.0,91477.0,44.0,1,Entry
+Camarillo,37950.666666666664,91405.0,40.300000000000004,3,Entry
+Daleville,2277.0,91295.0,46.4,1,Entry
+Farmingdale,32502.0,91196.0,42.1,5,Up and Coming
+Yardley,50790.0,91182.0,42.1,1,Entry
+Coronado,21247.0,91103.0,42.3,1,Entry
+Midlothian,34511.0,91065.66666666667,38.766666666666666,3,Entry
+Northville,22047.333333333332,91052.0,42.9,3,Entry
+Clarksboro,2505.0,91005.0,41.9,1,Entry
+Clive,16010.0,90993.0,37.5,2,Entry
+Castle Rock,20018.833333333332,90984.83333333333,36.8,6,Up and Coming
+Dexter,14627.0,90966.0,38.3,1,Entry
+Roswell,50741.666666666664,90906.0,40.300000000000004,3,Entry
+Ballston Lake,14841.0,90897.0,43.5,1,Entry
+Elburn,10357.0,90833.0,40.2,1,Entry
+Fremont,46588.5,90824.25,38.325,4,Up and Coming
+Berkley,6452.0,90741.0,40.1,1,Entry
+Verona,20431.0,90738.0,39.1,2,Entry
+Germantown,26037.0,90702.0,33.9,1,Entry
+Fort Monroe,592.0,90625.0,33.0,1,Entry
+Evergreen,24208.0,90600.0,47.9,4,Up and Coming
+South Windsor,25756.0,90499.0,42.6,1,Entry
+Block Island,836.0,90491.0,54.8,1,Entry
+Whittier,20083.0,90477.0,38.7,1,Entry
+Harleysville,24283.0,90449.0,40.3,1,Entry
+Brewster,20209.0,90437.0,41.1,1,Entry
+Swarthmore,9875.0,90275.0,39.6,1,Entry
+Huntingdon Valley,21048.0,90234.0,46.6,3,Entry
+Kennett Square,21798.0,90196.0,42.79999999999999,3,Entry
+Bluemont,2898.0,90083.0,42.9,2,Entry
+Minnetonka,21832.0,89936.0,45.2,1,Entry
+Dripping Springs,14660.0,89899.0,42.2,4,Up and Coming
+Annapolis,32792.25,89797.75,41.949999999999996,4,Up and Coming
+Northport,11845.5,89249.5,54.3,4,Up and Coming
+Schwenksville,15891.0,89224.0,39.6,1,Entry
+Westerville,43339.0,89221.5,38.55,2,Entry
+Kailua,53068.0,89016.0,34.7,2,Entry
+Benicia,27294.0,88930.0,44.2,1,Entry
+Valrico,29771.0,88844.0,40.8,1,Entry
+Merrimack,25538.0,88555.0,42.8,2,Entry
+Rockwall,29741.666666666668,88498.66666666667,36.50000000000001,3,Entry
+Prairieville,37603.0,88494.0,34.1,1,Entry
+Santa Clarita,32282.0,88415.0,38.1,1,Entry
+Valencia,32282.0,88415.0,38.1,1,Entry
+Mill Creek,52351.0,88283.0,37.2,1,Entry
+Claremont,36011.0,88240.0,39.4,3,Entry
+Bel Air,35192.0,88054.0,41.9,1,Entry
+Garnerville,8797.0,88047.0,36.6,1,Entry
+West Orange,46386.0,87826.0,40.6,1,Entry
+Hartland,21019.0,87798.0,40.7,1,Entry
+Blairstown,9641.0,87724.0,46.2,1,Entry
+Solana Beach,12345.0,87701.0,43.8,2,Entry
+North Wales,27927.0,87658.0,40.4,1,Entry
+West Chester,51616.25,87649.75,38.625,4,Up and Coming
+Waunakee,17050.0,87630.0,41.0,3,Entry
+Brookfield,21383.0,87587.0,47.7,1,Entry
+Alpharetta,25799.0,87514.0,37.0,2,Entry
+Fishers,37810.0,87513.5,33.849999999999994,4,Up and Coming
+Tomball,30791.0,87474.0,33.1,2,Entry
+Davidson,15034.0,87431.0,35.8,1,Entry
+Belford,6143.0,87398.0,40.5,1,Entry
+Media,35666.0,87347.0,45.5,2,Entry
+West Park,198.0,87344.0,40.3,1,Entry
+Mamaroneck,20157.0,87316.0,40.9,2,Entry
+Driftwood,3446.0,87228.0,43.5,1,Entry
+Greenwood Village,29855.5,87216.0,38.0,2,Entry
+Campbell,45187.0,87204.0,37.3,2,Entry
+Bordentown,17223.0,87181.0,40.5,1,Entry
+Pearland,52795.666666666664,87173.66666666667,35.36666666666667,3,Entry
+Peachtree City,34879.0,87159.0,42.2,1,Entry
+Chester ,12043.0,87114.0,40.0,1,Entry
+Bridgewater,26573.0,87015.0,36.2,1,Entry
+Haddon Heights,7567.0,86907.0,42.9,1,Entry
+Canterbury,2290.0,86838.0,48.0,1,Entry
+Shorewood,17984.0,86706.0,38.6,1,Entry
+Evans,41342.0,86628.0,38.5,1,Entry
+Newton,19046.0,86547.0,41.900000000000006,2,Entry
+Pickerington,39513.0,86510.0,39.0,1,Entry
+Jamul,8238.0,86406.0,43.6,1,Entry
+New Hartford,6458.0,86354.0,43.0,1,Entry
+Channahon,12530.0,86325.0,35.2,1,Entry
+Mattituck,4659.0,86286.0,48.0,1,Entry
+Jordan,8828.0,86228.0,37.0,1,Entry
+Holly Springs,30415.0,86066.0,34.3,2,Entry
+West Linn,28747.0,86042.0,43.9,1,Entry
+Rancho Cordova,19969.5,85937.25,32.65,4,Up and Coming
+Queenstown,3863.0,85909.0,48.1,1,Entry
+Rocky Point,12605.0,85893.0,37.5,2,Entry
+Nantucket,9843.0,85835.0,39.9,1,Entry
+Liberty Lake,10227.0,85821.0,38.1,1,Entry
+Lake Oswego,21443.5,85803.0,44.8,2,Entry
+Rutherford,18201.0,85784.0,38.7,1,Entry
+Woodbury,21897.666666666668,85700.66666666667,40.26666666666667,3,Entry
+Mistic,12466.0,85634.0,47.0,1,Entry
+Mystic,12466.0,85634.0,47.0,1,Entry
+Kaneohe,53818.0,85608.0,41.8,1,Entry
+East Greenwich,18241.0,85429.0,45.3,1,Entry
+Mantorville,2694.0,85417.0,39.8,1,Entry
+Black Diamond,4825.0,85398.0,42.7,2,Entry
+Hillsborough,31298.5,85275.0,40.2,2,Entry
+Ellisville,36799.0,85133.0,43.5,1,Entry
+Pinedale,5392.0,85130.0,34.0,1,Entry
+Fox,11945.0,85085.0,38.7,1,Entry
+Saline,20923.0,85060.0,42.1,2,Entry
+Saint Charles,36704.75,85029.75,39.85,4,Up and Coming
+Tinley Park,30578.0,84970.0,38.13333333333333,3,Entry
+Norco,27177.0,84905.0,39.6,1,Entry
+Ellington,15593.0,84840.0,40.1,1,Entry
+Port Jefferson Station,25969.0,84733.0,37.5,1,Entry
+Gurnee,38205.0,84548.0,38.0,1,Entry
+El Cerrito,24101.0,84466.0,44.6,1,Entry
+Atlantic Highlands,8901.0,84428.0,41.2,1,Entry
+Wheaton,28660.0,84419.0,35.3,2,Entry
+El Segundo,16760.0,84341.0,38.3,2,Entry
+Cantrall,754.0,84135.0,51.3,1,Entry
+Doylestown,27725.0,84056.0,44.7,2,Entry
+West Chester ,49559.0,84010.0,38.6,1,Entry
+Wolcott,16688.0,83993.0,43.8,1,Entry
+Novi,22189.0,83968.0,40.0,1,Entry
+Glenview,38667.0,83914.0,44.1,1,Entry
+Powell,25960.0,83816.0,35.7,2,Entry
+Whately,282.0,83750.0,52.5,1,Entry
+Hugo,21029.0,83624.0,33.7,1,Entry
+Frisco,27315.333333333332,83614.0,37.166666666666664,3,Entry
+Manassas,40216.5,83583.5,33.7125,8,Up and Coming
+Saint Helena,9538.0,83551.0,47.3,1,Entry
+Newport Beach,23141.0,83550.0,38.4,1,Entry
+Huntersville,52776.0,83519.0,35.4,2,Entry
+East Berne,1555.0,83409.0,46.9,1,Entry
+Orland Park,32840.5,83363.5,45.25,2,Entry
+Jamesville,10314.0,83355.0,45.4,1,Entry
+Dupont,8672.0,83171.0,32.0,1,Entry
+Bear,41159.0,83056.0,35.9,1,Entry
+Spicewood,8418.0,83024.0,49.0,1,Entry
+Peconic,262.0,83000.0,61.3,1,Entry
+Juneau,29639.0,82993.0,37.4,3,Entry
+San Francisco,36714.820512820515,82956.89743589744,37.57435897435898,39,Mature
+McCordsville,9706.0,82872.0,36.1,1,Entry
+Gig Harbor,19203.333333333332,82846.66666666667,45.333333333333336,3,Entry
+Plano,39456.8,82750.0,36.739999999999995,5,Up and Coming
+American Canyon,19902.0,82746.0,35.8,1,Entry
+Blaine,21801.666666666668,82627.66666666667,37.1,3,Entry
+Avon,21440.0,82603.0,40.8,1,Entry
+Eagle,8079.0,82566.0,37.0,3,Entry
+Kenmore,20896.0,82448.0,40.1,3,Entry
+Bothell,38477.4,82428.8,37.8,5,Up and Coming
+Sherwood,23697.0,82377.0,36.8,2,Entry
+North Stonington,5307.0,82353.0,45.7,1,Entry
+Centennial,35830.166666666664,82277.66666666667,39.38333333333333,6,Up and Coming
+King George,23325.0,82256.0,37.0,1,Entry
+Banks,4133.0,82232.0,40.8,1,Entry
+Cedar Crest,2958.0,82143.0,50.6,1,Entry
+Edwards,9511.0,82047.0,33.0,1,Entry
+Mechanicsburg,34035.0,81959.0,43.5,3,Entry
+Girdwood,2278.0,81949.0,38.4,1,Entry
+Cedar Park,68426.0,81928.0,34.7,4,Up and Coming
+Lino Lakes,27703.0,81887.0,37.9,1,Entry
+Huntington Beach,45669.0,81866.8,40.42,5,Up and Coming
+Braintree,36051.0,81844.0,40.7,1,Entry
+Valley Center,20559.0,81835.0,40.5,1,Entry
+Maineville,23034.0,81812.0,34.7,1,Entry
+Golden,28474.5,81769.5,41.45000000000001,12,Up and Coming
+Cornelius,24805.0,81737.0,38.2,3,Entry
+La Mirada,49222.0,81722.0,37.8,1,Entry
+Poquoson,12095.0,81701.0,43.5,1,Entry
+Elmsford,8029.0,81667.0,34.6,1,Entry
+Hooksett,13470.0,81640.0,40.3,1,Entry
+Broomfield,34995.8,81639.0,35.959999999999994,5,Up and Coming
+Hampstead,14199.0,81500.0,42.1,1,Entry
+Delano,8686.0,81491.0,39.5,1,Entry
+Rowlett,26237.0,81425.0,39.2,1,Entry
+Wylie,48611.0,81413.0,33.8,1,Entry
+Downers Grove,28054.0,81383.0,42.2,3,Entry
+North Aurora,16820.0,81383.0,35.6,1,Entry
+Cumming,58225.0,81378.0,35.3,1,Entry
+Upper Arlington,33315.0,81343.0,36.4,1,Entry
+Bismark,27196.0,81341.0,37.3,1,Entry
+Wake Forest,53860.0,81287.0,37.8,2,Entry
+Hampden,5129.0,81130.0,48.4,1,Entry
+Norton,19209.0,81069.0,39.5,1,Entry
+Gilroy,58246.0,81037.0,33.4,1,Entry
+Crystal Lake,48234.0,81031.0,37.4,1,Entry
+Chester,8098.5,81012.5,44.45,2,Entry
+Peyton,22256.0,81000.0,35.0,1,Entry
+Grayslake,35685.0,80909.0,39.9,1,Entry
+Clifton Park,42069.0,80908.0,40.8,1,Entry
+Middlesex,13703.0,80833.0,41.6,1,Entry
+Tarrytown,22890.0,80814.0,39.3,1,Entry
+Raynham,13450.0,80761.0,40.9,1,Entry
+Altamont,7327.0,80750.0,44.2,1,Entry
+Corrales,9052.0,80739.0,52.6,2,Entry
+Kirkwood,38585.0,80682.0,43.8,1,Entry
+Palmdale,50306.0,80663.0,37.9,2,Entry
+Sandy,23099.5,80631.5,38.599999999999994,2,Entry
+Fountain Valley,56510.0,80619.0,43.3,1,Entry
+Papillion,27000.0,80600.0,34.9,1,Entry
+Cedarburg,18868.0,80521.0,44.4,2,Entry
+Voorhees,29261.0,80471.0,43.2,1,Entry
+Ewing,9579.0,80449.0,42.7,1,Entry
+Caledonia,20073.0,80434.0,37.9,1,Entry
+Dutton,20073.0,80434.0,37.9,1,Entry
+Glen Mills,18709.0,80429.0,47.7,1,Entry
+Pescadero,1764.0,80417.0,38.2,1,Entry
+New Milford,26948.0,80260.0,41.0,1,Entry
+Arcadia,32271.0,80183.0,41.8,1,Entry
+Novato,17501.0,80167.0,44.0,4,Up and Coming
+Prince Frederick,11877.0,80087.0,40.1,2,Entry
+Mundelein,37586.0,80069.0,36.8,1,Entry
+Round Rock,55607.0,80032.2,33.42,5,Up and Coming
+Mandeville,23165.0,79985.0,40.55,2,Entry
+Oconomowoc,34097.0,79940.0,41.8,3,Entry
+Berthoud,10398.0,79889.0,46.5,2,Entry
+Southington,32745.0,79748.0,44.1,1,Entry
+Loomis,11741.0,79743.0,44.6,1,Entry
+Petaluma,36098.5,79687.0,41.1,4,Up and Coming
+Pine Island,1674.0,79643.0,43.3,1,Entry
+Dighton,3926.0,79615.0,43.2,1,Entry
+Shakopee,41427.0,79592.0,33.1,3,Entry
+Camas,28582.0,79486.0,38.5,2,Entry
+Glen Allen,33848.0,79480.0,39.1,1,Entry
+Vacaville,34599.0,79452.0,38.4,1,Entry
+Oak Park,28527.25,79440.5,38.75,4,Up and Coming
+Belmar,21769.0,79312.0,43.3,1,Entry
+Olathe,71245.25,79310.0,33.699999999999996,4,Up and Coming
+Darien,23067.0,79274.0,46.5,2,Entry
+Phoenixville,40163.0,79227.0,38.9,5,Up and Coming
+New York,32688.0,79149.38461538461,33.969230769230776,13,Up and Coming
+La Verne,34045.0,79140.0,40.6,1,Entry
+Buda,25580.0,79049.0,34.6,1,Entry
+Frederick,25819.18181818182,79042.90909090909,37.31818181818183,11,Up and Coming
+Himrod,987.0,79009.0,44.8,1,Entry
+Elk Grove,58418.4,78981.0,34.239999999999995,5,Up and Coming
+Maple Grove,33164.0,78965.0,40.3,2,Entry
+Mukwonago,19271.0,78876.0,42.5,1,Entry
+Brookline,28924.0,78814.0,33.5,1,Entry
+Silver Spring,39252.0,78738.0,35.1,4,Up and Coming
+Placentia,52794.0,78730.0,36.8,3,Entry
+Newburyport,17569.0,78638.0,46.3,2,Entry
+North Hampton,4328.0,78596.0,50.7,1,Entry
+Wappingers Falls,34962.0,78573.0,41.1,2,Entry
+San Dimas,33441.0,78509.0,42.0,2,Entry
+Hinckley,7714.0,78507.0,46.7,1,Entry
+Amesbury,16429.0,78486.0,41.3,2,Entry
+Southwick,9552.0,78476.0,43.4,1,Entry
+Plainfield,27801.75,78419.5,36.525000000000006,4,Up and Coming
+Chatsworth,38117.0,78414.0,42.3,2,Entry
+Waconia,12773.0,78405.0,37.0,2,Entry
+Abington,16009.0,78395.0,38.7,1,Entry
+Perkasie,24984.0,78312.0,41.4,1,Entry
+Hampshire,14050.0,78235.0,34.8,1,Entry
+Gilbert,42180.2,78156.4,33.22,5,Up and Coming
+Eliot,6234.0,78156.0,44.6,1,Entry
+West Dundee,15587.0,78091.0,40.9,1,Entry
+Brea,37254.0,78077.0,38.3,2,Entry
+Justin,12283.0,77968.0,36.0,1,Entry
+Southampton,17812.5,77902.0,46.55,2,Entry
+Pasadena,23741.0,77897.0,39.68,5,Up and Coming
+Westport,11774.75,77821.0,44.75,4,Up and Coming
+Littleton,31487.7,77802.6,41.45,10,Up and Coming
+Wethersfield,26590.0,77740.0,44.4,1,Entry
+Cameron Park,29590.0,77718.0,43.7,1,Entry
+Clay,10919.0,77708.0,37.6,1,Entry
+Point Pleasant Boro,24377.0,77700.0,43.8,1,Entry
+Point Pleasant Beach,24377.0,77700.0,43.8,1,Entry
+Niwot,31302.0,77631.0,42.8,1,Entry
+Maynard,10211.0,77622.0,41.7,2,Entry
+Lake Stevens,31339.0,77590.0,36.1,2,Entry
+Rocky Hill,19743.0,77560.0,43.4,1,Entry
+Rancho Mirage,17456.0,77526.0,61.0,1,Entry
+Penfield,20229.0,77386.0,42.7,1,Entry
+New Freedom,7280.0,77350.0,46.1,1,Entry
+Westford,1702.0,77243.0,43.5,1,Entry
+Palmer,26202.0,77242.0,35.1,2,Entry
+St Louis Park,29820.0,77213.0,36.0,1,Entry
+Englewood,27638.25,77202.0,38.225,4,Up and Coming
+Mount Holly,24648.0,77141.0,36.9,2,Entry
+Costa Mesa,51904.0,77127.0,34.4,3,Entry
+Cross Plains,5699.0,77098.0,40.2,1,Entry
+Ipswich,13354.0,77087.0,48.1,3,Entry
+South San Francisco,65200.0,77058.0,37.8,2,Entry
+Warners,2559.0,77039.0,34.2,1,Entry
+Strongsville,22334.5,77038.5,44.45,2,Entry
+Scarborough,18963.0,77034.0,44.7,1,Entry
+Woodridge,32578.0,77001.0,37.4,1,Entry
+Daly City,61591.0,76978.0,39.6,1,Entry
+Douglassville,14789.0,76946.0,39.9,1,Entry
+Edmonds,23013.25,76867.25,48.349999999999994,4,Up and Coming
+Hilliard,58097.0,76813.0,34.3,1,Entry
+Trussville,25294.0,76698.0,41.4,1,Entry
+Hacienda Heights,55776.0,76663.0,40.4,1,Entry
+Westminster,27332.333333333332,76628.88888888889,37.64444444444444,9,Up and Coming
+Fabius,2000.0,76618.0,40.7,1,Entry
+Ocean View,5633.0,76563.0,48.3,1,Entry
+Fairport,41211.0,76552.0,43.6,3,Entry
+Street,7165.0,76548.0,44.6,1,Entry
+Ardmore,12674.0,76496.0,37.9,3,Entry
+Snohomish,33018.0,76489.0,41.800000000000004,7,Up and Coming
+Hailey,11062.0,76481.0,39.9,3,Entry
+Blue Ash,21971.0,76441.0,44.5,1,Entry
+Huntington,33731.0,76419.5,40.95,2,Entry
+Williamston,11299.0,76400.0,41.9,2,Entry
+Big Lake,18718.0,76390.0,33.9,1,Entry
+Westlake,32552.0,76358.0,45.1,1,Entry
+Gillette,20041.666666666668,76357.66666666667,32.666666666666664,3,Entry
+Crozet,7516.0,76354.0,42.2,2,Entry
+Ramona,37299.0,76273.0,39.4,3,Entry
+Alexandria,22243.625,76266.75,37.800000000000004,8,Up and Coming
+Lansdale,55090.0,76263.0,42.1,1,Entry
+Delmar,11226.0,76234.0,39.75,2,Entry
+Grapevine,47488.0,76216.0,37.6,1,Entry
+Shelter Island,1846.0,76133.0,50.9,1,Entry
+Mount Airy,32652.714285714286,76123.71428571429,41.800000000000004,7,Up and Coming
+Essex Junction,20010.0,76074.0,39.5,1,Entry
+Dyer,21917.0,76034.0,40.8,1,Entry
+Aound Rock,75038.0,76007.0,32.5,1,Entry
+Warrenville,13543.0,75988.0,37.1,2,Entry
+Mason,35042.5,75973.5,38.75,4,Up and Coming
+Sylvania,32422.0,75869.0,40.2,3,Entry
+Cromwell,14076.0,75859.0,43.5,1,Entry
+Gorham,16540.0,75833.0,38.1,3,Entry
+Simpsonville,49692.0,75832.0,39.2,1,Entry
+Spring Branch,14615.0,75805.0,45.5,2,Entry
+Windsor,23627.714285714286,75790.14285714286,38.62857142857143,7,Up and Coming
+Bay Shore,65821.0,75775.0,34.6,4,Up and Coming
+Commerce Township,22464.5,75738.0,41.349999999999994,2,Entry
+Jamaica Plain,37541.0,75730.0,33.6,1,Entry
+Coral Springs,38355.0,75714.0,37.5,1,Entry
+Wakefield,20675.0,75692.0,46.3,2,Entry
+Martinez,48018.0,75672.0,42.5,3,Entry
+Spanish Fort,12994.0,75657.0,40.0,1,Entry
+Nazareth,24472.0,75629.0,44.0,1,Entry
+Granby,5943.0,75592.5,44.2,2,Entry
+Huntley,26708.0,75572.0,44.6,1,Entry
+San Juan Capistrano,35192.0,75551.0,40.3,1,Entry
+Old Saybrook,10258.0,75549.0,49.9,1,Entry
+Granger,20602.666666666668,75468.33333333333,43.03333333333333,3,Entry
+Telford,14791.0,75465.0,41.5,1,Entry
+Armada,5402.0,75388.0,43.5,1,Entry
+Liberty Hill,9341.0,75375.0,39.0,2,Entry
+Aston,21067.0,75373.0,38.5,2,Entry
+Bow,3858.0,75359.0,48.3,1,Entry
+Kennebunk,10912.0,75357.0,49.4,1,Entry
+Ankeny,26922.0,75305.66666666667,32.333333333333336,3,Entry
+Wallingford,45145.0,75289.0,43.0,3,Entry
+Le Claire,5483.0,75241.0,43.4,1,Entry
+Virginia City,688.0,75217.0,58.2,1,Entry
+Willow Springs,5006.0,75203.0,44.3,1,Entry
+Williamsville,53475.0,75189.0,46.7,1,Entry
+Woburn,38961.0,75138.0,39.7,1,Entry
+Conshohocken,16650.0,75136.0,34.7,1,Entry
+Murrieta,62070.0,75053.0,35.2,5,Up and Coming
+Hackettstown,29527.0,74980.0,39.4,3,Entry
+Ossining,31502.0,74896.0,39.0,2,Entry
+Dewitt,17032.0,74788.0,39.7,1,Entry
+Clemmons,25998.0,74741.0,43.3,1,Entry
+Bargersville,6051.0,74663.0,38.5,1,Entry
+Itasca,10128.0,74598.0,41.0,4,Up and Coming
+Brooklyn Park,33116.0,74597.0,33.3,1,Entry
+Edison,16030.0,74589.0,38.2,1,Entry
+Hodgkins,31514.0,74573.0,43.1,1,Entry
+Portsmouth ,17155.0,74494.0,46.0,1,Entry
+Breinigsville,7601.0,74469.0,35.5,1,Entry
+Wauconda,16304.0,74427.0,36.8,2,Entry
+Spring Grove,11940.0,74256.5,42.5,2,Entry
+Hatfield,18191.0,74223.0,42.1,1,Entry
+Saint Peters,71988.0,74161.0,38.1,1,Entry
+Oxford,18771.375,74003.75,37.550000000000004,8,Up and Coming
+Carlsbad,26765.416666666668,73993.75,40.60833333333333,12,Up and Coming
+Soquel,10571.0,73987.0,46.0,1,Entry
+Powhatan,23815.0,73868.0,42.7,1,Entry
+Forest,21793.0,73776.0,42.0,1,Entry
+Chaska,25741.0,73737.0,34.9,1,Entry
+Epsom,4596.0,73723.0,45.8,1,Entry
+Fair Oaks,40921.0,73720.0,44.2,1,Entry
+Teutopolis,3919.0,73708.0,36.4,1,Entry
+Adamstown,2902.5,73526.5,40.849999999999994,2,Entry
+Washington,28363.304347826088,73431.65217391304,38.160869565217375,23,Up and Coming
+Aspen,9869.0,73426.0,43.5,1,Entry
+Greenwell Springs,13844.0,73424.0,38.6,1,Entry
+Boerne,27971.0,73417.0,43.4,5,Up and Coming
+Queen Creek,51190.0,73367.0,30.5,1,Entry
+Mahomet,13142.0,73295.0,40.4,1,Entry
+O Fallon,42572.75,73235.0,35.25,4,Up and Coming
+Niceville,30428.0,73218.0,42.8,2,Entry
+West Des Moines,27162.0,73186.66666666667,33.3,3,Entry
+Folsom,40194.5,73176.5,41.7,2,Entry
+Vail,5668.0,73170.0,43.5,1,Entry
+Royse City,22192.0,73146.0,33.7,1,Entry
+Whiteford,2143.0,73125.0,43.5,1,Entry
+Cold Spring,6586.0,73098.0,41.3,2,Entry
+Beach Haven,6926.0,73094.0,61.5,1,Entry
+Hudson,23791.333333333332,73035.5,41.71666666666667,6,Up and Coming
+Manahawkin,24629.0,72969.0,43.7,1,Entry
+Willowbrook,28181.0,72950.0,43.3,1,Entry
+Edwardsville,33736.0,72877.0,35.2,1,Entry
+Charles Town,17147.0,72833.0,40.1,2,Entry
+Vashon,11122.0,72774.0,51.1,3,Entry
+Johnstown,12282.0,72772.0,34.1,1,Entry
+Homewood,21217.0,72754.0,41.0,1,Entry
+Wasilla,53456.0,72743.0,33.0,3,Entry
+Munster,23445.0,72583.0,44.5,2,Entry
+Reisterstown,33190.0,72571.0,39.8,1,Entry
+Wellington,9345.0,72481.0,33.1,1,Entry
+Whitman,14567.0,72462.0,39.1,1,Entry
+Stanwood,21307.0,72457.0,41.9,1,Entry
+Collingswood,17826.0,72429.0,41.0,1,Entry
+Crested Butte,3689.0,72409.0,37.4,2,Entry
+San Rafael,41056.0,72311.0,38.9,1,Entry
+Roberts,3802.0,72292.0,33.7,1,Entry
+Sturbridge,4653.0,72234.5,42.900000000000006,2,Entry
+Central Valley,1808.0,72216.0,46.1,1,Entry
+Belmont,22975.4,72211.2,40.4,5,Up and Coming
+Wentzville,35253.0,72207.0,34.5,1,Entry
+Corolla,857.0,72169.0,52.0,1,Entry
+Toms River,44814.0,72155.5,43.0,2,Entry
+Plymouth,34429.8,72121.3,41.36,10,Up and Coming
+West Boylston,7698.0,72107.0,38.9,1,Entry
+South Lyon,29815.0,72091.0,41.1,2,Entry
+Venice,28748.75,71994.0,42.724999999999994,4,Up and Coming
+Sherman Oaks,27569.0,71983.5,39.75,2,Entry
+Pinehurst,16359.0,71980.0,59.6,2,Entry
+Pacific Grove,15241.0,71969.0,49.3,1,Entry
+Royersford,25668.0,71923.0,40.7,1,Entry
+Odessa,10135.0,71917.33333333333,41.13333333333333,3,Entry
+Leander,48854.0,71885.0,33.4,3,Entry
+Belchertown,14673.0,71875.0,41.3,1,Entry
+Westminister,37650.0,71826.0,40.3,1,Entry
+Monrovia,41985.0,71733.0,37.7,3,Entry
+Skagway,1080.0,71667.0,44.3,2,Entry
+Byron,8278.0,71632.0,38.3,1,Entry
+Elko,22824.0,71623.0,30.9,1,Entry
+New Glarus,3830.0,71591.0,45.2,2,Entry
+San Diego,36010.26373626374,71556.02197802198,33.65604395604394,91,Mature
+Basalt,6606.0,71523.0,36.6,1,Entry
+Watford City,3331.0,71471.0,42.1,1,Entry
+Bolingbrook,53836.0,71422.0,32.4,1,Entry
+Poulsbo,28900.0,71410.0,42.9,5,Up and Coming
+Incline Village,8500.0,71366.0,46.1,1,Entry
+Magnolia,25007.0,71326.0,38.5,1,Entry
+Egg Harbor Township,42491.0,71316.0,39.3,2,Entry
+Pitman,9685.0,71307.0,41.9,2,Entry
+East Aurora,17137.0,71278.0,45.6,1,Entry
+Dixon,20845.0,71261.0,34.6,1,Entry
+Waterbury Center,2157.0,71250.0,47.2,1,Entry
+Culver City,32335.0,71235.0,39.4,1,Entry
+Middleton,24448.0,71219.0,40.0,1,Entry
+Riverview,23894.0,71132.0,39.3,1,Entry
+Bellevue,14160.2,71115.0,40.17999999999999,5,Up and Coming
+Santee,54469.0,71100.0,36.8,4,Up and Coming
+Shamong,24380.0,71089.0,47.2,1,Entry
+Signal Hill,11260.0,71077.0,36.0,1,Entry
+Julian,20053.0,71071.0,45.05,2,Entry
+Moore,5972.0,71042.0,40.8,1,Entry
+Florida,3926.0,70975.0,45.6,1,Entry
+Branford,27825.0,70960.0,47.4,3,Entry
+Maria Stein,2094.0,70958.0,31.0,1,Entry
+Williston,9513.0,70877.0,44.9,2,Entry
+Hilton Head Island,21853.333333333332,70775.66666666667,53.4,3,Entry
+Chino,81596.0,70768.0,34.1,1,Entry
+Milford,21538.555555555555,70734.88888888889,43.2888888888889,9,Up and Coming
+Troutville,9719.0,70671.0,48.4,1,Entry
+Apollo Beach,15317.0,70671.0,41.9,1,Entry
+Atco,12412.0,70661.0,37.3,1,Entry
+Marshfield,25854.0,70649.0,43.1,2,Entry
+Brandy Station,1237.0,70625.0,37.9,1,Entry
+Mammoth Lakes,9681.0,70607.0,35.1,2,Entry
+Beverly,40026.0,70563.0,39.8,2,Entry
+Garrattsville,199.0,70536.0,46.3,1,Entry
+Little Ferry,10723.0,70520.0,39.7,1,Entry
+Hudsonville,34183.0,70507.0,34.5,2,Entry
+Silverthorne,7131.0,70469.0,39.9,2,Entry
+Lombard,52390.0,70448.0,40.6,3,Entry
+College Station,50799.0,70400.0,29.7,4,Up and Coming
+Crete,15572.0,70383.0,45.3,1,Entry
+Suisun City,28823.0,70374.0,32.8,2,Entry
+Bettendorf,35289.0,70360.0,41.1,2,Entry
+Lake George,4955.0,70341.0,47.9,1,Entry
+Kenai,15779.0,70320.0,39.0,1,Entry
+Westfield,28883.6,70160.6,38.519999999999996,5,Up and Coming
+Buckley,14051.0,70123.0,40.1,2,Entry
+West Covina,31796.0,70111.0,37.9,1,Entry
+Dundas,1921.0,70104.0,37.8,1,Entry
+Dorr,9578.0,70093.0,33.3,1,Entry
+Anchorage,21234.909090909092,70024.81818181818,36.20909090909091,11,Up and Coming
+Buford,40881.0,70015.0,36.2,1,Entry
+Kodiak,13009.0,69955.0,31.5,1,Entry
+Eagle River,17173.5,69953.5,41.2,2,Entry
+Oak Bluffs,4563.0,69844.0,44.7,1,Entry
+Bird In Hand,2216.0,69821.0,23.6,1,Entry
+Hatboro,20318.0,69807.0,40.5,1,Entry
+Port Allen,2611.0,69777.0,37.4,1,Entry
+Carpinteria,16156.0,69766.0,42.4,4,Up and Coming
+Oswego,37246.5,69761.5,35.2,2,Entry
+Mooresville,35353.333333333336,69736.33333333333,38.6,3,Entry
+Amityville,27536.0,69733.0,40.0,1,Entry
+Orange,26199.6,69623.4,36.14,5,Up and Coming
+Shelby Charter Township,25854.0,69620.0,41.5,1,Entry
+Milan,13640.0,69609.0,40.5,1,Entry
+Orcutt,42919.0,69602.0,40.6,1,Entry
+Santa Maria,42919.0,69602.0,40.6,3,Entry
+Spencerport,18098.0,69564.0,41.7,2,Entry
+Williamstown,39747.0,69499.0,38.9,1,Entry
+Richland,25063.5,69442.0,38.00000000000001,6,Up and Coming
+Telluride,5101.0,69432.0,36.7,3,Entry
+Santa Ana,55754.0,69405.4,33.839999999999996,5,Up and Coming
+Sitka,8945.0,69405.0,38.5,1,Entry
+Exeter,14343.666666666666,69355.0,40.56666666666667,3,Entry
+Geneseo,11374.0,69280.0,43.0,2,Entry
+Rock Springs,28785.0,69276.0,32.1,2,Entry
+Holland Patent,3235.0,69199.0,41.7,1,Entry
+Shelby Township,26719.0,69171.0,46.8,1,Entry
+Warwick,25885.0,69158.0,45.23333333333333,3,Entry
+Chesterton,24282.0,69149.0,38.9,1,Entry
+Villa Park,28933.0,69144.0,36.7,2,Entry
+Shepherdstown,7075.0,69125.0,34.4,1,Entry
+Red Hook,10332.0,69091.0,44.0,1,Entry
+Lewisville,24818.0,69081.0,36.733333333333334,3,Entry
+Alameda,61639.0,69076.0,39.4,3,Entry
+Crown Point,60191.0,69071.0,40.1,2,Entry
+Oviedo,58153.0,68995.0,33.4,1,Entry
+Chandler,54892.166666666664,68968.33333333333,32.833333333333336,6,Up and Coming
+Breese,6350.0,68961.0,36.2,1,Entry
+New Salem,990.0,68929.0,42.1,1,Entry
+West Fargo,27479.0,68917.0,33.6,1,Entry
+New Prague,11958.0,68770.0,37.5,1,Entry
+Edmond,33589.0,68735.5,34.1,2,Entry
+Dillsburg,18318.0,68684.0,40.7,1,Entry
+Romeoville,39871.0,68672.0,31.4,1,Entry
+Sonoita,1237.0,68667.0,57.8,1,Entry
+Mattawan,8710.0,68644.0,41.0,1,Entry
+Jackson Hole,16031.0,68641.0,36.9,1,Entry
+Camino,4942.0,68628.0,50.5,2,Entry
+White Bear Lake,37810.0,68618.0,43.5,2,Entry
+East Petersburg,4660.0,68587.0,38.6,1,Entry
+Montauk,3471.0,68528.0,51.3,1,Entry
+Belle Plaine,8835.0,68508.0,33.7,1,Entry
+Rancho Cucamonga,59324.666666666664,68449.66666666667,33.6,6,Up and Coming
+Washougal,22496.0,68358.0,38.2,3,Entry
+Fredericksburg,28549.81818181818,68272.18181818182,36.39090909090908,11,Up and Coming
+Pawcatuck,9119.0,68240.0,42.0,1,Entry
+Patchogue,45265.0,68230.0,38.1,3,Entry
+Sebastopol,29381.0,68223.0,50.3,4,Up and Coming
+Morrow,11644.0,68166.0,41.3,1,Entry
+Rocklin,22675.0,68160.0,38.8,4,Up and Coming
+Clarence,9911.0,68137.0,47.2,2,Entry
+Anoka,46557.0,68130.0,37.6,1,Entry
+Centerville,28796.5,68117.0,45.8,2,Entry
+Gardiner,5849.0,67985.33333333333,40.03333333333333,3,Entry
+Saratoga Springs ,36864.0,67979.0,41.7,1,Entry
+Saratoga Springs,36864.0,67979.0,41.7,4,Up and Coming
+Glen Cove,27585.0,67914.0,39.4,1,Entry
+Parkesburg,6929.0,67829.0,35.4,1,Entry
+Hamden,20965.5,67752.0,39.3,2,Entry
+Truckee,18113.0,67750.0,38.2,3,Entry
+Weston,11831.0,67735.0,46.166666666666664,3,Entry
+Palm Harbor,28158.75,67732.75,46.925,4,Up and Coming
+Braselton,13374.0,67712.0,33.6,1,Entry
+Williamsburg,30860.777777777777,67705.22222222222,42.2,9,Up and Coming
+Nederland,3237.0,67647.0,40.6,2,Entry
+Rocky River,20170.0,67645.0,46.2,1,Entry
+Accord,3435.0,67639.0,42.6,1,Entry
+Levittown,17607.0,67637.0,40.1,1,Entry
+Santa Clara,37057.0,67630.0,34.2,2,Entry
+Monterey,33685.0,67513.0,37.8,2,Entry
+Mapleton,1117.0,67500.0,36.5,1,Entry
+Hollister,50067.0,67481.0,33.8,2,Entry
+Howell,43397.0,67477.0,38.4,5,Up and Coming
+Elk Grove Village,33973.0,67473.0,43.5,1,Entry
+Coatesville,52798.0,67460.0,37.5,1,Entry
+Grand rapids,31140.0,67412.0,40.7,1,Entry
+Fairfield,41369.11111111111,67387.44444444444,37.56666666666666,9,Up and Coming
+Waltham,28997.0,67382.0,32.1,2,Entry
+Mount Horeb,9849.0,67361.0,40.5,1,Entry
+Lenexa,25146.0,67351.0,39.7,1,Entry
+Hanover,43074.2,67307.6,41.739999999999995,5,Up and Coming
+Glenwood,9495.0,67281.0,40.7,1,Entry
+Saint Michaels,3389.0,67277.0,57.2,1,Entry
+Baldwinsville,31466.0,67225.0,43.5,2,Entry
+Enfield,44699.0,67191.0,41.1,1,Entry
+Goodyear,44319.0,67132.0,32.0,1,Entry
+Lititz,42594.0,67111.0,41.3,2,Entry
+Boones Mill,4360.0,67091.0,47.9,1,Entry
+Bradley Beach,4298.0,67065.0,42.0,1,Entry
+Attleboro,43677.0,67039.0,39.4,1,Entry
+Arroyo Grande,30401.0,67035.0,46.7,1,Entry
+Franklin,29661.75,67029.75,39.8375,8,Up and Coming
+Plattsmouth,12621.0,67022.0,42.4,1,Entry
+Snellville,34676.0,67018.0,39.5,1,Entry
+Christiana,6350.0,67014.0,31.6,1,Entry
+Boca Raton,17719.0,66969.5,45.6,2,Entry
+Jupiter,32247.5,66911.5,47.400000000000006,2,Entry
+Stowe,4345.0,66867.0,41.0,2,Entry
+Oakville,8287.0,66783.0,44.1,1,Entry
+Grass Lake,9335.0,66778.0,41.9,1,Entry
+Roslindale,30960.0,66735.0,38.0,1,Entry
+McHenry,32369.0,66723.0,38.3,1,Entry
+Edgartown,4135.0,66711.0,49.5,1,Entry
+Northfield,18968.0,66679.33333333333,31.0,3,Entry
+Royal Oak,24944.0,66659.0,35.3,5,Up and Coming
+Ridgway,2780.0,66638.0,49.3,1,Entry
+Tahoe City,2997.0,66628.0,42.1,1,Entry
+Buellton,5370.0,66628.0,43.7,2,Entry
+Cape May Court House,17570.0,66610.0,46.3,2,Entry
+Eagan,15603.0,66602.66666666667,34.86666666666667,3,Entry
+Boston,15383.1,66600.8,31.470000000000006,10,Up and Coming
+Fort Smith,7521.0,66563.0,40.5,1,Entry
+Schaumburg,12143.0,66556.0,30.9,2,Entry
+Cordova,35504.0,66518.0,35.3,1,Entry
+Fuquay Varina,41460.0,66512.0,36.5,5,Up and Coming
+Freeville,5693.0,66480.0,44.0,1,Entry
+Lees Summit,21077.75,66469.75,36.725,4,Up and Coming
+Scottsdale,36935.454545454544,66469.27272727272,40.68181818181818,11,Up and Coming
+Lacey,21786.0,66466.0,39.1,1,Entry
+Hicksville,22625.5,66443.0,38.8,2,Entry
+Peterborough,6678.0,66406.0,49.3,1,Entry
+Indian Trail,32322.0,66385.0,35.1,1,Entry
+Tumwater,36505.666666666664,66383.33333333333,39.666666666666664,3,Entry
+Bethel,9693.75,66374.25,40.85,4,Up and Coming
+Cheney,3803.0,66364.0,37.8,1,Entry
+Bailey,8459.0,66319.0,45.2,1,Entry
+Houma,26718.0,66316.0,37.3,1,Entry
+Enumclaw,21670.0,66295.0,43.0,3,Entry
+Glendale,34386.4,66270.0,37.41,10,Up and Coming
+Covina,35370.0,66268.0,35.5,3,Entry
+Irwin,45544.0,66267.0,43.6,2,Entry
+Puyallup,26210.8,66261.6,38.36,5,Up and Coming
+New Paltz,18261.0,66261.0,31.599999999999998,6,Up and Coming
+Peru,6316.0,66260.0,45.8,1,Entry
+Hyattsville,11665.0,66210.0,32.3,2,Entry
+Stamford,37597.0,66204.5,34.900000000000006,2,Entry
+Holly,21401.0,66197.0,38.9,1,Entry
+Quakertown,34354.0,66162.0,41.0,2,Entry
+Solvang,7822.0,66146.0,50.4,1,Entry
+Dickinson,40368.0,66129.0,35.1,3,Entry
+Cotati,8646.0,66111.0,35.4,1,Entry
+Huxley,3662.0,66105.0,35.0,1,Entry
+Lihue,15780.0,66083.0,38.8,1,Entry
+North Augusta,14547.0,66070.0,42.0,1,Entry
+Wimberley,12453.0,66050.0,52.0,1,Entry
+East Brookfield,2253.0,66042.0,42.7,1,Entry
+Brighton,32869.5,66035.0,35.4,4,Up and Coming
+West Kingston,4256.0,66033.0,48.4,1,Entry
+Princeton,2640.5,66025.5,36.15,2,Entry
+Tequesta,13915.0,66025.0,54.1,1,Entry
+Lyons,7986.5,65919.5,41.349999999999994,2,Entry
+Wolfeboro,6252.0,65903.0,54.8,2,Entry
+Pismo Beach,7746.0,65859.0,51.9,1,Entry
+Oak Creek,34580.0,65813.0,37.7,1,Entry
+Big Sky,1990.0,65794.0,33.2,2,Entry
+Gahanna,52819.0,65785.0,36.4,1,Entry
+Winter Springs,43157.0,65751.0,39.1,1,Entry
+Avalon,3960.0,65721.0,34.9,1,Entry
+Divide,3881.0,65714.0,49.3,1,Entry
+Grand Ledge,18829.0,65663.0,42.9,2,Entry
+Atascadero,31349.0,65657.0,43.0,2,Entry
+Livonia,29083.5,65630.5,43.3,2,Entry
+Snoqualmie Pass,366.0,65625.0,42.5,1,Entry
+Greendale,14143.0,65625.0,43.6,1,Entry
+Garden Valley,3441.0,65603.0,46.2,1,Entry
+Stoughton,19850.0,65586.0,42.8,1,Entry
+East Haven,28922.0,65559.0,43.8,2,Entry
+Cazenovia,8422.0,65556.0,42.9,2,Entry
+Hinesburg,4525.0,65481.0,43.5,1,Entry
+Nassau,5502.0,65458.0,43.4,1,Entry
+Canonsburg,36569.0,65402.0,43.6,1,Entry
+Newington,22005.0,65355.0,41.4,1,Entry
+Waukesha,30164.0,65354.5,36.849999999999994,2,Entry
+Steamboat Springs,12632.25,65350.5,35.75,4,Up and Coming
+Olympia,36279.666666666664,65290.0,40.21666666666667,6,Up and Coming
+Evanston,30848.4,65277.0,35.76,5,Up and Coming
+Los Ranchos de Albuquerque,64917.0,65277.0,34.1,1,Entry
+Somerville,25706.75,65201.75,32.175,4,Up and Coming
+Redding,30216.25,65186.0,42.725,4,Up and Coming
+Redlands,38367.0,65147.0,34.699999999999996,3,Entry
+South Burlington,17998.0,65091.0,40.4,3,Entry
+Navarre,35373.0,65064.0,35.7,1,Entry
+Chapel Hill,35932.666666666664,65010.333333333336,28.900000000000002,3,Entry
+North Haven,392.0,65000.0,47.4,1,Entry
+Carlton,3471.0,65000.0,41.1,1,Entry
+Framingham,35825.0,64960.666666666664,36.86666666666667,3,Entry
+Kenosha ,32273.0,64930.0,36.6,1,Entry
+Henniker,4815.0,64913.0,29.3,1,Entry
+Chula Vista,63507.0,64904.0,34.474999999999994,4,Up and Coming
+Clinton,5959.0,64902.0,52.8,1,Entry
+Amana,1926.0,64879.0,50.0,1,Entry
+Adkins,8970.0,64878.0,37.8,1,Entry
+Battle Ground,34033.0,64873.0,35.7,4,Up and Coming
+Montclair,31335.0,64872.5,35.65,4,Up and Coming
+Roscoe,10899.5,64857.0,44.599999999999994,2,Entry
+Norwich,26083.333333333332,64803.333333333336,38.56666666666667,3,Entry
+Hilton,18325.0,64802.0,43.3,1,Entry
+Lynnwood,36597.0,64738.0,37.4,2,Entry
+Tustin,58755.0,64680.0,32.8,4,Up and Coming
+Mount Hood Parkdale,2603.0,64677.0,42.1,1,Entry
+Woodland Park,11811.0,64675.0,47.2,2,Entry
+Derry,33417.0,64642.0,39.2,2,Entry
+Whitestown,3246.0,64606.0,31.9,1,Entry
+Lahaina,20826.0,64603.0,39.9,2,Entry
+Chardon,23430.0,64572.0,44.0,1,Entry
+Zeeland,28202.0,64517.0,33.9,1,Entry
+Lafayette,25186.571428571428,64511.07142857143,37.51428571428571,14,Up and Coming
+Mentor,60780.0,64446.0,45.0,2,Entry
+Lake Ann,3340.0,64409.0,39.2,1,Entry
+Forked River,19868.0,64357.0,42.6,1,Entry
+Blue Springs,30828.0,64344.0,39.0,1,Entry
+Hardy,6604.0,64332.0,44.4,1,Entry
+Fawn Grove,2230.0,64330.0,40.5,1,Entry
+Land O Lakes,24985.0,64302.0,39.4,2,Entry
+Alabaster,26722.0,64299.0,36.6,1,Entry
+Sycamore,22299.0,64274.0,36.9,1,Entry
+Houston,29096.78787878788,64258.666666666664,35.02424242424242,33,Mature
+Granbury,24179.0,64254.0,49.8,1,Entry
+Wheatfield,7834.0,64250.0,37.2,1,Entry
+Laurel,20458.333333333332,64223.333333333336,36.46666666666667,3,Entry
+Bayfield,7366.0,64213.0,45.0,1,Entry
+Langdon,2759.0,64145.0,42.8,1,Entry
+Alstead,2759.0,64145.0,42.8,1,Entry
+South Deerfield,4441.0,64127.0,46.4,1,Entry
+Eaton,7751.0,64094.0,37.0,1,Entry
+Whiteland,12358.0,64045.0,34.2,1,Entry
+Oregon City,51040.0,64023.0,40.0,4,Up and Coming
+Ouray,852.0,64000.0,50.79999999999999,3,Entry
+Highland,13119.0,63974.0,42.0,1,Entry
+Kent,30751.75,63939.0,36.85,4,Up and Coming
+Breckenridge,9078.0,63895.0,34.1,2,Entry
+Batesville,11985.0,63854.0,38.4,1,Entry
+Matthews,40529.0,63846.0,38.8,1,Entry
+Sugarhill,45866.0,63843.0,35.1,1,Entry
+Merchantville,22814.0,63821.0,40.5,1,Entry
+New Bremen,4496.0,63750.0,38.9,1,Entry
+Whitefield,2368.0,63750.0,45.1,1,Entry
+Stafford Springs,12846.0,63750.0,40.9,1,Entry
+Oxnard,48692.333333333336,63693.333333333336,32.93333333333333,3,Entry
+Illiopolis,1472.0,63672.0,38.0,1,Entry
+Hammonton,23669.0,63658.0,43.6,3,Entry
+Mashpee,14000.0,63657.0,49.1,2,Entry
+Duncannon,9098.0,63655.0,44.4,2,Entry
+Imperial,15412.333333333334,63651.666666666664,36.166666666666664,3,Entry
+Emmaus,17302.0,63636.0,42.2,3,Entry
+Bloomfield,12417.4,63574.4,46.2,5,Up and Coming
+Oldenburg,1064.0,63571.0,36.7,1,Entry
+West Sacramento,35485.0,63559.0,33.9,3,Entry
+Sarver,8416.0,63526.0,45.2,1,Entry
+Harbor Springs,6884.0,63517.0,52.1,1,Entry
+Crosslake,2366.0,63500.0,59.1,1,Entry
+Soldotna,14572.0,63482.0,35.6,2,Entry
+Hemlock,6105.0,63406.0,43.7,1,Entry
+San Leandro,44344.0,63388.0,41.3,4,Up and Coming
+Royal Palm Beach,64015.0,63385.0,40.8,1,Entry
+Bentonville,42380.0,63384.0,32.6,2,Entry
+Kittery,8285.0,63378.0,45.1,2,Entry
+Tracy,49442.0,63374.0,33.5,1,Entry
+Glassboro,20121.0,63353.0,27.9,2,Entry
+Burien,20154.0,63320.0,43.8,1,Entry
+East Troy,9811.0,63319.0,42.2,1,Entry
+Newberg,28687.0,63318.0,36.0,3,Entry
+Tualatin,27625.0,63314.0,35.9,2,Entry
+Luxemburg,7380.0,63313.0,39.9,1,Entry
+Middletown,33491.75,63283.333333333336,38.25,12,Up and Coming
+Coraopolis,40774.0,63277.0,41.2,2,Entry
+Bourbonnais,28923.0,63264.0,33.5,2,Entry
+Hyde Park,10109.333333333334,63240.333333333336,42.96666666666667,3,Entry
+Woodstock,25701.0,63190.25,39.625,4,Up and Coming
+Rossville,20372.0,63184.0,36.0,1,Entry
+Stillwater,32841.666666666664,63142.666666666664,37.6,3,Entry
+Camp Hill,35184.0,63137.0,41.9,2,Entry
+Nevada City,17668.0,63132.0,50.7,2,Entry
+Delaware,49491.0,63130.0,36.3,2,Entry
+Stow,38443.0,63111.0,40.2,2,Entry
+Yellow Springs,5152.0,63086.0,50.9,1,Entry
+Norwood,26622.0,63074.5,37.05,2,Entry
+Broken Arrow,58607.0,63005.0,35.4,1,Entry
+Sidney,7623.0,62987.0,40.5,1,Entry
+Afton,4201.0,62938.0,48.9,2,Entry
+Fernandina Beach,31477.0,62932.0,49.4,4,Up and Coming
+Noblesville,34163.0,62915.75,34.0,4,Up and Coming
+Trumansburg,6626.0,62900.0,42.9,1,Entry
+Galloway,27385.0,62856.0,39.8,1,Entry
+Fenton,36202.0,62807.0,41.5,2,Entry
+Monroe,25765.222222222223,62794.11111111111,38.85555555555556,9,Up and Coming
+Beacon,19917.0,62792.0,39.8,2,Entry
+Enola,16608.0,62788.0,39.4,2,Entry
+Stevens,7811.0,62784.0,38.8,1,Entry
+Victor,9948.5,62754.0,38.65,4,Up and Coming
+North Mankato,14236.0,62726.0,37.2,1,Entry
+Mandan,23277.0,62693.0,38.2,2,Entry
+Holderness,1674.0,62679.0,52.0,1,Entry
+West Brookfield,4646.0,62667.0,45.7,1,Entry
+Whitinsville,10350.0,62649.0,39.2,1,Entry
+Gloucester,25996.333333333332,62609.666666666664,46.166666666666664,3,Entry
+Rock Spring,5674.0,62601.0,41.9,1,Entry
+Nellysford,1473.0,62596.0,60.8,1,Entry
+Torrance,42969.166666666664,62593.5,37.19166666666667,12,Up and Coming
+Sackets Harbor,2163.0,62586.0,33.4,1,Entry
+Destin,16158.0,62577.0,40.0,2,Entry
+Marlborough,1922.0,62540.0,46.1,1,Entry
+Paso Robles,43356.0,62529.0,39.4,6,Up and Coming
+Ketchikan,13651.0,62519.0,38.7,2,Entry
+Saint Francisville,10705.0,62517.0,41.4,1,Entry
+Wildomar,30448.0,62507.0,34.4,1,Entry
+Vernal,27369.0,62500.0,29.6,2,Entry
+Hamburg,43007.0,62497.0,42.8,1,Entry
+Pittsboro,18415.0,62474.0,48.9,2,Entry
+Export,9268.0,62449.0,44.3,2,Entry
+Oakdale,23582.666666666668,62438.0,38.4,3,Entry
+Glenrock,4251.0,62404.0,38.4,1,Entry
+Bondurant,5458.0,62389.0,31.0,1,Entry
+Ridgefield Park,12819.0,62388.0,36.9,1,Entry
+Anaheim,45880.94117647059,62326.35294117647,32.77058823529413,17,Up and Coming
+Murfreesboro,50076.0,62295.0,36.5,1,Entry
+Broussard,12761.0,62279.0,35.2,1,Entry
+Ava,2406.0,62213.0,38.5,1,Entry
+Northwood,3792.0,62202.333333333336,45.0,3,Entry
+de Pere,41206.0,62172.0,34.7,2,Entry
+Marysville,32359.0,62169.8,36.76,5,Up and Coming
+Piedmont,3501.0,62132.0,39.3,1,Entry
+Mount Joy,19116.0,62131.0,40.1,2,Entry
+Raleigh,30579.409090909092,62127.818181818184,34.68636363636364,22,Up and Coming
+Virginia Beach,49556.38461538462,62109.46153846154,34.892307692307696,13,Up and Coming
+Medina,45164.0,62078.0,39.733333333333334,3,Entry
+Arlington,28534.875,62074.5,35.0125,8,Up and Coming
+Stevensville,11054.8,62061.0,44.42,5,Up and Coming
+Woodland Hills,33625.0,62016.0,36.0,2,Entry
+Seattle,27708.465753424658,61992.109589041094,35.864383561643834,73,Mature
+Millerton,3009.0,61964.0,44.3,1,Entry
+Richardson,39951.0,61955.0,35.55,2,Entry
+Healdsburg,16910.0,61952.0,41.8,1,Entry
+Goochland,5625.0,61938.0,39.1,1,Entry
+Coldwater,6148.0,61926.0,40.1,1,Entry
+West Bend,24474.0,61915.5,40.8,2,Entry
+Kailua Kona,35818.0,61875.0,41.8,2,Entry
+Chicago,55823.584615384614,61812.78461538462,32.88615384615383,65,Mature
+Kingston,25412.4,61808.4,40.7,5,Up and Coming
+Olivebridge,1976.0,61793.0,47.1,1,Entry
+Winchester,22296.8,61761.4,38.660000000000004,5,Up and Coming
+Santa Cruz,42493.2,61741.4,36.31999999999999,10,Up and Coming
+Boulder,24616.74074074074,61725.333333333336,35.29999999999999,27,Mature
+Fiskdale,2689.0,61719.0,42.6,1,Entry
+Middle River,39816.0,61672.0,38.1,1,Entry
+Lyman,7390.0,61662.0,46.0,1,Entry
+Ferdinand,4906.0,61653.0,40.0,1,Entry
+Redmond,43033.333333333336,61648.0,37.0,9,Up and Coming
+Longwood,23173.0,61630.0,42.7,1,Entry
+Long Beach,36109.4,61625.6,38.249999999999986,10,Up and Coming
+Abbottstown,3501.0,61607.0,40.7,1,Entry
+Brandon,8204.5,61597.0,41.150000000000006,2,Entry
+Port Washington,12700.0,61560.0,38.6,1,Entry
+Carolina Beach,6175.0,61545.0,42.3,1,Entry
+Westmont,24496.0,61540.0,39.0,2,Entry
+Mineral,9520.0,61477.0,45.4,1,Entry
+Tooele,45118.0,61447.0,29.6,1,Entry
+Mechanicville,14204.0,61389.0,40.2,1,Entry
+St Pete Beach,16030.0,61364.0,53.5,1,Entry
+Port Neches,12931.0,61363.0,40.5,1,Entry
+Lolo,5366.0,61328.0,38.1,2,Entry
+Maryland Heights,22286.0,61300.0,38.1,2,Entry
+Sandy Springs,28106.666666666668,61290.333333333336,32.53333333333333,3,Entry
+Hellertown,12665.0,61265.0,43.4,1,Entry
+Concord,42893.2,61257.4,37.15,10,Up and Coming
+Middle Bass Island,135.0,61250.0,66.2,1,Entry
+Harmony,4614.0,61197.0,44.6,1,Entry
+Nenana,908.0,61150.0,44.8,1,Entry
+Spring City,11550.0,61117.0,42.9,1,Entry
+Morrisville,16483.5,61106.0,37.725,4,Up and Coming
+Cottontown,6679.0,61092.0,39.5,1,Entry
+Ludlow ,21247.0,61073.0,44.4,1,Entry
+Dewey Beach,11576.0,61069.0,57.0,1,Entry
+Rehoboth Beach,11576.0,61069.0,57.0,6,Up and Coming
+Brooklyn,56610.42857142857,61068.42857142857,33.37142857142856,28,Mature
+Tinton Falls,37041.0,61067.0,44.1,1,Entry
+Fallbrook,47282.0,61067.0,40.8,1,Entry
+Neptune City,37041.0,61067.0,44.1,1,Entry
+Burbank,20986.4,61021.6,37.779999999999994,5,Up and Coming
+Front Royal,31009.0,60977.0,40.0,1,Entry
+Milldale,124.0,60972.0,41.1,1,Entry
+Johns Island,21631.0,60954.0,40.1,2,Entry
+Brookston,3577.0,60950.0,40.5,1,Entry
+Greenwich,6566.0,60913.0,44.9,1,Entry
+York Haven,5366.0,60909.0,38.5,1,Entry
+Rensselaerville,565.0,60875.0,43.1,1,Entry
+Wadsworth,30231.0,60860.0,40.3,2,Entry
+Ketchum,4231.0,60840.0,51.1,2,Entry
+Seward,6730.5,60834.5,37.95,2,Entry
+Roseville,40872.0,60813.0,37.05,2,Entry
+Canal Winchester,33926.0,60809.0,34.7,2,Entry
+Dryden,3997.0,60799.0,42.9,1,Entry
+Saugatuck,2704.0,60795.0,46.6,2,Entry
+Calistoga,7241.0,60754.0,44.7,2,Entry
+Birmingham,14632.8,60725.1,34.11,10,Up and Coming
+Whitsett,7777.0,60718.0,37.2,1,Entry
+Sultan,6498.0,60707.0,38.8,1,Entry
+Plover,13732.0,60646.0,35.6,1,Entry
+Silverdale,20479.0,60635.0,37.9,1,Entry
+Plainville,17767.0,60630.0,42.4,1,Entry
+Oxon Hill,29710.0,60629.0,35.7,1,Entry
+La Vista,18449.0,60628.0,31.7,2,Entry
+LaVista,18449.0,60628.0,31.7,1,Entry
+Hillsboro,35432.42857142857,60543.57142857143,36.4,7,Up and Coming
+Spirit Lake,8593.0,60519.0,47.9,1,Entry
+High Ridge,15879.0,60511.0,37.9,1,Entry
+Estacada,10759.0,60505.0,41.8,1,Entry
+Fullerton,30117.0,60485.0,30.75,2,Entry
+Valley Park,8427.0,60471.0,35.5,1,Entry
+Suncook,11447.0,60470.0,38.6,1,Entry
+Kihei,28182.0,60458.0,40.0,1,Entry
+Norris,1708.0,60446.0,51.8,1,Entry
+Old Forge,1271.0,60438.0,56.8,1,Entry
+Westerly,21248.0,60394.0,44.8,1,Entry
+Anacortes,20305.0,60369.0,49.8,2,Entry
+Bruceton Mills,6782.0,60366.0,38.4,1,Entry
+Cooper Landing,227.0,60357.0,60.5,1,Entry
+New Braunfels,53108.4,60321.0,36.5,5,Up and Coming
+Indian Harbour Beach,25312.0,60313.0,47.5,1,Entry
+Clermont,54609.0,60312.0,41.2,2,Entry
+Roselle Park,13384.0,60308.0,39.2,1,Entry
+Winsted,12643.0,60298.0,44.4,1,Entry
+Minot,19644.0,60273.0,31.1,1,Entry
+Onalaska,23231.0,60259.0,40.6,3,Entry
+Austin,30107.666666666668,60250.31481481482,33.579629629629636,54,Mature
+Neenah,43355.0,60210.0,38.1,1,Entry
+Spencer,11733.0,60197.0,39.1,1,Entry
+Indian Land,18862.0,60169.0,43.8,1,Entry
+Queensbury,26308.0,60152.0,44.6,2,Entry
+Sparta,20003.2,60138.4,40.58,5,Up and Coming
+New Richmond,16589.0,60123.0,35.3,1,Entry
+Nisswa,5214.0,60114.0,50.3,2,Entry
+Boring,7423.0,60082.0,49.3,1,Entry
+Maumee,26812.0,60078.0,40.6,1,Entry
+Arden,21536.0,60077.0,40.8,3,Entry
+Weymouth,14609.0,60059.0,42.5,1,Entry
+Berlin,12794.666666666666,60054.333333333336,46.333333333333336,3,Entry
+River Falls,21786.0,60016.0,28.8,2,Entry
+Fountain,921.0,60000.0,38.5,1,Entry
+Napa,35098.4,59973.2,36.83999999999999,10,Up and Coming
+Easthampton,17605.0,59963.0,43.2,5,Up and Coming
+Westhampton,17605.0,59963.0,43.2,1,Entry
+Orleans,5982.0,59938.0,62.2,1,Entry
+Langley,5294.0,59931.0,56.9,1,Entry
+Falmouth,8554.0,59858.0,56.5,1,Entry
+Hartford,19895.4,59851.0,34.17999999999999,5,Up and Coming
+Cambria,6393.0,59813.0,58.4,1,Entry
+Culpeper,32200.0,59808.0,36.3,3,Entry
+Hartville,10012.0,59798.0,40.5,1,Entry
+Lapel,3148.0,59779.0,40.5,1,Entry
+kennesaw,51872.0,59758.0,32.1,1,Entry
+Kennesaw,51872.0,59758.0,32.1,3,Entry
+Carroll,8198.0,59754.0,42.55,2,Entry
+Valparaiso,39564.333333333336,59740.333333333336,36.63333333333333,3,Entry
+Galt,29892.0,59731.0,34.5,1,Entry
+Manheim,21542.0,59720.0,42.5,2,Entry
+Canyon Lake,15895.0,59710.0,49.2,1,Entry
+Whaleyville,470.0,59698.0,50.0,1,Entry
+Santa Monica,20807.0,59695.0,37.9,1,Entry
+Ocean City,11508.0,59679.333333333336,52.166666666666664,3,Entry
+Greer,39316.5,59657.5,38.9,2,Entry
+Sturgeon Bay,26847.5,59655.5,41.45,2,Entry
+West Forks,66.0,59583.0,55.7,1,Entry
+Gettysburg,28479.0,59529.0,41.5,2,Entry
+Ocean Springs,38187.0,59528.0,36.5,2,Entry
+Smyrna,24446.0,59519.0,37.7,2,Entry
+Oceanside,46035.583333333336,59492.166666666664,34.666666666666664,12,Up and Coming
+Portsmouth,22759.666666666668,59431.416666666664,39.96666666666666,12,Up and Coming
+Troutdale,21530.0,59422.0,33.2,1,Entry
+Friday Harbor,7929.0,59414.0,50.8,2,Entry
+Waxahachie,38526.0,59385.0,34.9,2,Entry
+Smithfield,19888.0,59360.666666666664,42.13333333333333,3,Entry
+Riverside,58663.90909090909,59355.09090909091,31.890909090909098,11,Up and Coming
+Baton Rouge,28801.25,59353.25,34.35,4,Up and Coming
+Amarillo,19964.5,59303.0,34.025,4,Up and Coming
+North Olmsted,32818.0,59288.0,45.3,1,Entry
+Chelsea,15674.25,59285.5,42.75,4,Up and Coming
+Ventura,40250.444444444445,59275.0,39.03333333333333,9,Up and Coming
+Coon Rapids,34024.0,59258.0,36.3,1,Entry
+Kremmling,2532.0,59208.0,39.2,1,Entry
+Northampton,13016.5,59181.5,39.0,2,Entry
+Montross,5541.0,59148.0,45.1,1,Entry
+Ebensburg,9453.0,59147.0,42.2,1,Entry
+Sudlersville,1888.0,59091.0,37.6,1,Entry
+Santa Barbara,28551.0,59045.666666666664,32.5,6,Up and Coming
+Philomath,7931.0,59040.0,41.2,1,Entry
+Limerick,2959.0,59038.0,31.6,1,Entry
+Butler,34349.5,58997.25,43.900000000000006,4,Up and Coming
+Swiftwater,930.0,58969.0,46.7,1,Entry
+Santa Rosa,39306.333333333336,58956.26666666667,36.586666666666666,15,Up and Coming
+Glenwood Springs,16177.0,58954.0,35.1,3,Entry
+Clackamas,20872.0,58954.0,32.8,2,Entry
+North Canton,39118.0,58949.0,43.7,1,Entry
+New Gloucester,5556.0,58938.0,41.0,1,Entry
+Palmyra,20198.0,58929.0,43.9,1,Entry
+Idyllwild,2157.0,58924.0,55.1,1,Entry
+Fort Lauderdale,18144.166666666668,58917.166666666664,42.75,6,Up and Coming
+Fort Ann,3877.0,58893.0,42.9,1,Entry
+Canoga Park,53194.0,58889.0,35.9,1,Entry
+Mountlake Terrace,20195.0,58865.0,37.3,1,Entry
+Barre,11327.0,58860.5,42.400000000000006,2,Entry
+Annandale,7025.0,58845.0,43.5,1,Entry
+Thornton,45830.0,58820.0,33.5,2,Entry
+Northglenn,45830.0,58820.0,33.5,1,Entry
+Grandville,27524.0,58814.0,36.1,2,Entry
+Santa Rosa Beach,12372.0,58800.0,42.79999999999999,3,Entry
+Sonoma,38800.0,58785.0,44.9,2,Entry
+Palisade,5363.0,58768.0,49.4,1,Entry
+Saint Clair,12232.0,58768.0,42.9,2,Entry
+Bonnerdale,1748.0,58750.0,35.3,1,Entry
+Safety Harbor ,17466.0,58750.0,50.2,1,Entry
+Safety Harbor,17466.0,58750.0,50.2,1,Entry
+Springville,30811.0,58745.0,26.5,1,Entry
+Winter Park,20919.166666666668,58721.833333333336,41.68333333333333,6,Up and Coming
+Allen Park,27933.0,58720.0,41.6,1,Entry
+Mineral Point,5014.0,58719.0,39.5,1,Entry
+Dimondale,5763.0,58696.0,48.3,1,Entry
+Fall Creek,3905.0,58667.0,43.0,1,Entry
+Fort Collins,37654.608695652176,58666.95652173913,34.42608695652174,23,Up and Coming
+Wilsonville,21921.0,58662.0,36.5,2,Entry
+St.Augustine,21450.0,58648.0,53.2,1,Entry
+Appleton,28049.0,58606.5,37.400000000000006,4,Up and Coming
+Maple Shade,19197.0,58545.0,36.5,1,Entry
+Hector,973.0,58538.0,49.1,3,Entry
+Kernville,1653.0,58480.0,56.4,2,Entry
+College Point,23037.0,58465.0,37.2,1,Entry
+Tilton,8394.0,58449.0,41.9,1,Entry
+Geneva,20900.2,58432.4,38.32,10,Up and Coming
+Yucaipa,53370.0,58420.0,37.0,1,Entry
+Kamuela,12113.0,58392.0,37.4,1,Entry
+Ann Arbor,41076.63636363636,58384.27272727273,29.190909090909088,11,Up and Coming
+New London,12402.0,58370.666666666664,41.43333333333333,3,Entry
+Millerstown,3944.0,58365.0,42.9,1,Entry
+Lomita,21459.0,58320.0,39.9,1,Entry
+Missouri City,35540.0,58315.0,35.4,1,Entry
+Red Bank,23728.5,58304.0,38.349999999999994,2,Entry
+Boulder City,15116.0,58283.0,50.1,1,Entry
+Davie,44952.0,58270.0,39.2,1,Entry
+Webster,35409.5,58236.25,38.675,4,Up and Coming
+Elkhart Lake,3468.0,58234.0,49.3,1,Entry
+Fairplay,2218.0,58226.0,40.8,1,Entry
+Peekskill,23702.0,58226.0,39.7,2,Entry
+Estes Park,9046.0,58212.0,56.9,3,Entry
+Sugar Grove,2174.0,58207.0,47.9,1,Entry
+Santa Margarita,3575.0,58190.0,42.5,1,Entry
+Ohiowa,214.0,58125.0,53.9,1,Entry
+Porter,26617.0,58109.0,33.8,1,Entry
+Rahway,27701.0,58101.0,38.4,1,Entry
+Blairsden-Graeagle,1200.0,58090.0,55.6,1,Entry
+Dallastown,10593.0,58089.0,42.0,1,Entry
+Savoy,7050.0,58085.0,32.9,1,Entry
+South Glens Falls,7983.0,58083.0,42.3,1,Entry
+Monroeville,28380.0,58083.0,45.8,1,Entry
+Belleville,20726.0,58026.25,39.375,4,Up and Coming
+Belfair,1567.0,57941.0,39.1,1,Entry
+Everett,43756.22222222222,57928.22222222222,35.87777777777777,9,Up and Coming
+Youngsville,16242.0,57863.0,37.2,1,Entry
+Haverhill,22121.0,57833.0,38.5,1,Entry
+Boiling Springs,22273.0,57716.0,36.4,1,Entry
+Waterloo,19239.0,57697.4,40.46,5,Up and Coming
+Bluffton,35253.0,57665.0,34.9,2,Entry
+Sauk Rapids,16187.0,57662.0,33.0,1,Entry
+Addison,13214.0,57633.0,32.2,2,Entry
+Cape Vincent,1829.0,57625.0,52.0,1,Entry
+Newmarket,8968.0,57625.0,35.9,1,Entry
+Cedar Springs,15987.0,57622.0,35.2,1,Entry
+Fitchburg,42167.5,57611.0,36.400000000000006,2,Entry
+Fairhope,29408.0,57584.0,43.3,1,Entry
+Loveland,41844.545454545456,57578.72727272727,39.74545454545456,11,Up and Coming
+Annville,11855.0,57550.0,38.3,1,Entry
+Poughkeepsie,43034.0,57546.6,36.379999999999995,5,Up and Coming
+Belt,1732.0,57500.0,37.8,1,Entry
+Grafton,9363.0,57473.5,43.85,2,Entry
+Placerville,35924.0,57468.0,48.9,4,Up and Coming
+Emmitsburg,6323.0,57455.0,25.5,1,Entry
+Tehachapi,34851.0,57433.0,39.3,1,Entry
+Cloverdale,10628.0,57379.0,42.9,2,Entry
+Cooperstown,5456.0,57375.0,50.4,2,Entry
+Diamond Springs,4893.0,57340.0,40.1,2,Entry
+New Hudson,5886.0,57339.0,35.9,1,Entry
+Boyertown,17055.0,57335.0,44.9,1,Entry
+Little Egg Harbor Twp,24104.0,57308.0,45.0,1,Entry
+Spring Lake,18976.0,57262.0,44.5,1,Entry
+Newport News,28648.0,57230.0,30.5,1,Entry
+Cool Ridge,884.0,57214.0,48.7,1,Entry
+Troy,31156.5,57197.75,34.825,4,Up and Coming
+Somerdale,9559.0,57188.0,40.3,1,Entry
+Egg Harbor,1208.0,57188.0,55.4,1,Entry
+Salem,33223.78947368421,57175.21052631579,40.86842105263156,19,Up and Coming
+Kutztown,15941.0,57153.0,24.4,2,Entry
+Oriental,3014.0,57128.0,58.6,1,Entry
+Bar Harbor,5255.0,57125.0,46.6,3,Entry
+Lander,8556.0,57027.0,43.2,2,Entry
+Beaver,1115.0,57024.0,46.9,1,Entry
+Strykersville,1507.0,56938.0,43.4,1,Entry
+Dundee,4867.0,56909.0,39.0,2,Entry
+Hood River,18762.0,56884.0,37.2,5,Up and Coming
+Coralville,19328.0,56862.0,32.0,3,Entry
+Middlebury,10545.0,56791.0,32.5,2,Entry
+Durango,25712.833333333332,56779.833333333336,36.31666666666667,6,Up and Coming
+Whitmore Lake,13582.0,56759.0,39.9,1,Entry
+Hallock,1402.0,56750.0,47.8,1,Entry
+Palm Desert,23729.0,56737.0,62.4,1,Entry
+Goleta,54251.0,56669.0,21.9,4,Up and Coming
+Kernersville,51849.0,56602.0,40.5,1,Entry
+Surf City,6412.0,56598.0,36.4,1,Entry
+Humble,45778.0,56575.0,30.1,1,Entry
+Baileys Harbor,1623.0,56563.0,48.9,1,Entry
+Bakersfield,46838.0,56555.25,30.85,4,Up and Coming
+Port Orchard,33176.0,56549.0,37.2,1,Entry
+Rohnert Park,42361.0,56543.0,32.5,1,Entry
+Tecumseh,14508.0,56497.0,42.9,2,Entry
+Chemung,1032.0,56481.0,46.3,1,Entry
+Jacksonville Beach,25894.0,56466.0,42.3,4,Up and Coming
+Newburgh,54565.0,56444.0,34.9,1,Entry
+Cape May,18543.0,56421.0,47.3,2,Entry
+Layton,45489.0,56395.0,28.6,1,Entry
+Bolton Landing,1571.0,56375.0,51.8,1,Entry
+Naples,20229.85714285714,56327.71428571428,51.51428571428572,7,Up and Coming
+Freeport,24513.2,56316.2,42.56,5,Up and Coming
+Dallas,20891.916666666668,56281.625,34.45000000000001,24,Up and Coming
+Willoughby,35334.0,56278.0,44.1,2,Entry
+Atlanta,30461.545454545456,56271.5,32.91363636363636,22,Up and Coming
+Sapphire,1407.0,56250.0,61.1,1,Entry
+Manchester,13930.0,56248.9,39.22,10,Up and Coming
+Berea,19266.0,56199.0,38.4,1,Entry
+Hershey,17017.0,56177.0,40.4,1,Entry
+Longmont,41859.92307692308,56140.153846153844,35.23076923076923,13,Up and Coming
+Oaklyn,13910.0,56135.0,38.0,1,Entry
+Norwalk,27246.0,56127.0,37.6,1,Entry
+Hopkins,25113.0,56118.0,35.3,1,Entry
+Cashmere,7105.0,56098.0,42.5,1,Entry
+Danville,20569.7,56092.8,43.57,10,Up and Coming
+Conyngham,1400.0,56080.0,52.2,1,Entry
+Newhall,35243.0,56079.0,33.3,1,Entry
+Hayden,14156.333333333334,56068.666666666664,42.43333333333334,3,Entry
+Owego,11795.0,56025.0,44.2,1,Entry
+Mead,7687.5,56020.0,44.725,4,Up and Coming
+Munnsville,2801.0,56008.0,38.6,1,Entry
+Newbury,4487.0,56005.0,46.7,1,Entry
+Cayucos,2733.0,55956.0,58.8,1,Entry
+Saratoga,2569.0,55949.0,46.2,1,Entry
+Midland,29026.666666666668,55944.666666666664,36.03333333333333,3,Entry
+Pottstown,45593.0,55900.0,38.6,1,Entry
+Helena,27972.0,55877.666666666664,41.800000000000004,6,Up and Coming
+Winter Garden,47990.0,55875.0,35.4,1,Entry
+Red Bud,7329.0,55852.0,41.2,1,Entry
+Renfrew,4130.0,55844.0,48.2,1,Entry
+Mansfield,22397.25,55836.0,36.325,4,Up and Coming
+Wyalusing,4449.0,55795.0,42.9,1,Entry
+Tenino,6637.0,55720.0,41.5,1,Entry
+Erie,15391.4,55691.1,43.60999999999999,10,Up and Coming
+Trinity,38613.0,55651.0,46.0,1,Entry
+Vandalia,15008.0,55634.0,42.8,1,Entry
+Versailles,5497.0,55598.0,38.2,1,Entry
+Douglas,5145.5,55583.5,48.3,2,Entry
+Rio Rancho,52049.0,55544.0,38.1,3,Entry
+Castle Shannon,14146.0,55538.0,44.0,1,Entry
+Weedsport,5529.0,55531.0,43.7,1,Entry
+Pollock Pines,8902.0,55526.0,47.4,1,Entry
+Saco,18647.0,55524.0,42.3,2,Entry
+Cambridge,27485.25,55523.25,35.875,4,Up and Coming
+Prosser,13636.0,55508.0,33.7,2,Entry
+Croydon,8927.5,55503.5,43.1,2,Entry
+Azusa,60036.0,55495.0,28.3,1,Entry
+Galena,6747.0,55491.0,53.5,1,Entry
+Pawleys Island,13356.0,55471.0,55.4,1,Entry
+Camden,4855.0,55452.0,55.0,1,Entry
+Winterport,3770.0,55438.0,41.1,1,Entry
+Saint George,36269.0,55418.0,38.1,1,Entry
+Saint Augustine,28349.0,55407.0,42.575,4,Up and Coming
+Greenwood,39845.0,55399.0,37.15,4,Up and Coming
+Clayton,21549.0,55329.0,36.349999999999994,2,Entry
+Biglerville,5995.0,55302.0,38.7,1,Entry
+Casper,27486.0,55298.0,35.9,1,Entry
+Arvada,19887.85714285714,55293.0,39.01428571428572,7,Up and Coming
+Clovis,39672.6,55273.4,33.17999999999999,5,Up and Coming
+Yelm,21333.0,55226.0,33.0,1,Entry
+Tupper Lake,6120.0,55221.0,39.3,2,Entry
+Huber Heights,50366.0,55219.0,37.4,1,Entry
+Honolulu,27870.125,55213.5,42.975,8,Up and Coming
+Watsonville,82930.0,55208.0,32.1,2,Entry
+Rollingstone,1198.0,55208.0,43.0,1,Entry
+Aurora,42454.42857142857,55192.92857142857,33.82857142857143,14,Up and Coming
+South Beloit,11032.0,55172.0,36.4,1,Entry
+Halethorpe,34386.0,55168.0,35.3,1,Entry
+Winters,10008.0,55163.0,40.8,1,Entry
+Marana,13876.0,55102.0,38.9,1,Entry
+Hawley,11540.0,55092.0,49.6,1,Entry
+Fort Atkinson,18671.0,55092.0,41.5,1,Entry
+Staten Island,34102.333333333336,55077.666666666664,33.5,3,Entry
+Covington,29191.666666666668,55058.333333333336,39.46666666666667,3,Entry
+Grove City,37466.0,55042.5,36.4,2,Entry
+Bend,53158.666666666664,55015.0,39.899999999999984,18,Up and Coming
+Graham,25931.5,54988.5,39.8,2,Entry
+North Palm Beach,17578.0,54952.0,53.9,1,Entry
+Lewes,20339.0,54938.0,56.6,1,Entry
+Sisters,6675.0,54913.0,46.3,2,Entry
+Spring Lake Park,30423.0,54910.0,38.7,1,Entry
+Tannersville,3035.0,54884.0,39.5,1,Entry
+Oakmont,6340.0,54861.0,48.6,1,Entry
+Wells,5713.0,54813.5,43.5,2,Entry
+Suffolk,47846.0,54802.0,38.0,1,Entry
+East Peoria,25203.0,54765.0,40.9,1,Entry
+Burnsville,25761.666666666668,54761.0,39.9,3,Entry
+Rockford,24985.0,54717.666666666664,46.23333333333333,6,Up and Coming
+Bolivar,5379.0,54714.0,42.6,1,Entry
+Ludlow,16108.666666666666,54696.666666666664,41.5,3,Entry
+Jeffersonville,23848.0,54689.5,37.35,2,Entry
+Rosemont,28749.0,54688.0,39.9,1,Entry
+Jamestown,19216.25,54673.5,42.725,4,Up and Coming
+Ephrata,32475.0,54669.0,38.0,2,Entry
+Chilton,8069.0,54664.0,42.6,2,Entry
+Aztec,16968.0,54649.0,37.4,1,Entry
+Brockport,20706.0,54643.0,30.6,2,Entry
+Ellicottville,1302.0,54625.0,51.0,1,Entry
+Highwood,5439.0,54612.0,37.1,1,Entry
+Frankenmuth,7643.0,54603.0,49.7,1,Entry
+Irving,44829.0,54599.0,31.75,2,Entry
+San Jose,40246.92857142857,54595.78571428572,32.300000000000004,14,Up and Coming
+Tigard,31981.0,54567.0,42.8,1,Entry
+Belle Center,3516.0,54552.0,38.5,1,Entry
+McKinney,35556.0,54503.0,35.05,4,Up and Coming
+Fairview,10321.0,54488.0,42.4,2,Entry
+Milton,18478.5,54449.5,42.349999999999994,2,Entry
+Potosi,2698.0,54449.0,41.9,2,Entry
+San Fernando,35161.0,54440.0,31.3,1,Entry
+Hill City,2188.0,54432.0,48.4,2,Entry
+Laotto,1919.0,54417.0,42.1,1,Entry
+Cranston,32497.666666666668,54414.333333333336,41.53333333333333,3,Entry
+Miami County,35078.0,54383.0,40.2,1,Entry
+Florissant,27468.0,54377.5,44.7,2,Entry
+Susanville,21963.0,54372.0,35.0,2,Entry
+Arnold,3056.0,54360.0,59.1,1,Entry
+White River Junction,9376.0,54327.0,42.4,1,Entry
+Carmichael,60255.0,54322.0,43.4,1,Entry
+Pocono Pines,2026.0,54265.0,46.3,1,Entry
+Strasburg,10508.0,54238.0,41.7,1,Entry
+Milwaukie,33502.5,54212.0,40.05,2,Entry
+Nashua,28553.75,54191.0,36.849999999999994,4,Up and Coming
+Grandy,2667.0,54191.0,37.4,1,Entry
+Arena,1894.0,54167.0,41.0,1,Entry
+Elkader,2269.0,54143.0,49.6,1,Entry
+Winthrop,4019.0,54123.5,47.95,2,Entry
+Lowell,23921.714285714286,54119.71428571428,34.857142857142854,7,Up and Coming
+Debary,19506.0,54098.0,48.3,1,Entry
+Hackensack,43466.0,54091.0,39.5,2,Entry
+Georgetown,20360.5,54086.166666666664,36.5,6,Up and Coming
+Sunbury,14124.5,54056.5,42.05,2,Entry
+Normal,53926.0,54027.0,23.7,3,Entry
+Stockton,33225.0,54016.0,35.36666666666667,3,Entry
+Dover,32364.0,54011.333333333336,34.46666666666667,3,Entry
+Cowiche,1213.0,54000.0,32.1,1,Entry
+New Brighton,28313.5,53978.5,39.25,2,Entry
+Fairburn,28726.0,53956.0,32.7,1,Entry
+Danbury,49777.0,53944.0,34.6,1,Entry
+New Madison,2249.0,53929.0,31.8,1,Entry
+Hesperia,50399.5,53880.0,31.65,2,Entry
+Cleveland Heights,36509.5,53865.0,36.05,2,Entry
+Kill Devil Hills,10795.0,53864.0,42.0,1,Entry
+McCall,5876.0,53850.0,43.29999999999999,3,Entry
+Griffith,18032.0,53826.0,36.0,3,Entry
+Perham,6252.0,53817.0,45.6,1,Entry
+Belgrade,19101.0,53816.0,32.3,3,Entry
+Malden,59819.0,53798.0,35.7,1,Entry
+Homer,9628.0,53797.0,41.8,2,Entry
+Madison,29870.0,53795.90476190476,33.82857142857143,21,Up and Coming
+salt lake city,21311.0,53775.0,36.2,1,Entry
+Auburn,29695.529411764706,53765.705882352944,41.98823529411766,17,Up and Coming
+Plainwell,15624.0,53743.0,40.9,1,Entry
+Wayland,12007.0,53665.0,38.5,1,Entry
+Boothbay,2090.0,53621.0,41.7,1,Entry
+Schroon Lake,1423.0,53616.0,51.1,2,Entry
+Moriah,1388.0,53603.0,38.0,1,Entry
+Madera,33553.666666666664,53597.333333333336,33.166666666666664,3,Entry
+Manteo,6358.0,53588.0,41.2,1,Entry
+Wilson,14997.666666666666,53564.0,42.0,3,Entry
+Waseca,13316.0,53561.0,39.0,1,Entry
+Oak Harbor,37484.0,53556.0,33.3,2,Entry
+Sarasota,20489.5,53541.666666666664,49.88333333333333,6,Up and Coming
+Fruita,14700.0,53537.0,38.6,2,Entry
+Sierra Vista,34563.0,53510.0,36.4,1,Entry
+Berkeley,14166.125,53467.875,32.5875,8,Up and Coming
+Hampton,34648.142857142855,53448.857142857145,37.785714285714285,7,Up and Coming
+Bloomingdale,3411.0,53427.0,45.1,1,Entry
+Bloomer,7237.0,53423.0,38.8,1,Entry
+Carlisle,27160.25,53362.25,38.25,4,Up and Coming
+Canastota,13724.0,53314.0,42.6,1,Entry
+Farmers Branch,29180.0,53305.0,36.4,3,Entry
+New Harmony,1818.0,53287.0,52.4,1,Entry
+Lakewood,37124.357142857145,53285.92857142857,36.58571428571429,14,Up and Coming
+Groton,19075.5,53276.5,35.75,2,Entry
+Capitola,9241.0,53275.0,41.5,1,Entry
+Grand Haven,29759.0,53249.0,40.7,5,Up and Coming
+Somersworth,11804.0,53241.0,34.2,1,Entry
+Canandaigua,26567.0,53231.0,44.699999999999996,6,Up and Coming
+Richmond,24979.41176470588,53208.67647058824,36.64117647058825,34,Mature
+West Melbourne,27160.0,53205.0,44.0,1,Entry
+Mebane,28030.0,53166.0,37.8,1,Entry
+Ocean,39099.0,53160.0,39.1,1,Entry
+Asbury Park,39099.0,53160.0,39.1,2,Entry
+Delmont,5356.0,53146.0,51.1,1,Entry
+Decorah,13845.0,53141.0,40.1,2,Entry
+Red Wing,18417.0,53113.0,42.2,1,Entry
+New Castle,14742.0,53100.0,47.8,1,Entry
+Derby,12841.0,53098.0,40.7,1,Entry
+Machesney Park,23178.0,53094.0,39.9,1,Entry
+Escondido,43413.0,53083.2,34.660000000000004,5,Up and Coming
+Key West,33254.0,53050.0,41.6,3,Entry
+Stevenson,2971.0,53009.0,44.1,1,Entry
+Shawnee,19752.0,52977.0,36.2,1,Entry
+Elizabethtown,38726.0,52948.0,38.65,2,Entry
+Auburn Hills,21025.0,52937.0,33.3,1,Entry
+North Bergen,61434.0,52908.0,36.2,1,Entry
+Potter Valley,1906.0,52902.0,35.9,1,Entry
+Faribault,29791.0,52896.0,37.8,1,Entry
+Santa Fe,31403.545454545456,52880.09090909091,43.93636363636364,11,Up and Coming
+Terrebonne,6082.0,52877.0,52.2,1,Entry
+South Portland,25257.0,52858.0,40.1,3,Entry
+S Portland,25257.0,52858.0,40.1,1,Entry
+Scotia,1064.0,52853.0,28.5,1,Entry
+Saint Helens,15744.0,52852.0,35.4,1,Entry
+Bigfork,7892.0,52850.0,51.5,2,Entry
+Haines,2656.0,52848.0,44.0,1,Entry
+Hilo,47109.0,52822.0,41.0,1,Entry
+Redwood City,31497.0,52818.0,31.0,1,Entry
+Cody,14826.0,52815.0,46.6,2,Entry
+Orange Park,39458.0,52800.0,39.4,1,Entry
+White Salmon,5237.0,52783.0,46.1,1,Entry
+Paonia,3875.0,52782.0,46.6,1,Entry
+Overland Park,18954.0,52761.0,35.0,1,Entry
+Cedar,3006.0,52743.0,47.9,2,Entry
+Mount Pleasant,41681.5,52741.0,35.233333333333334,6,Up and Coming
+Humboldt,3129.6666666666665,52739.0,45.133333333333326,3,Entry
+Marina,22634.0,52736.0,35.5,1,Entry
+San Luis Obispo,28571.0,52730.0,31.0,10,Up and Coming
+Mount Victory,2164.0,52727.0,27.2,1,Entry
+Greensburg,59313.0,52719.0,45.2,1,Entry
+Vista,31945.9375,52664.5625,36.60625,16,Up and Coming
+Stratford,17934.0,52593.0,41.4,4,Up and Coming
+Marengo,6457.0,52593.0,44.0,1,Entry
+Visalia,53742.0,52546.0,29.9,1,Entry
+Traverse City,37446.818181818184,52534.181818181816,42.57272727272727,11,Up and Coming
+Bellefonte,26987.0,52517.0,41.2,1,Entry
+Alvin,46889.0,52507.0,35.2,2,Entry
+Phelps,4328.0,52500.0,43.7,1,Entry
+Saint Clair Shores,22145.0,52498.0,44.0,3,Entry
+Pacific,6495.0,52482.0,32.8,1,Entry
+Ashby,1216.0,52465.0,49.9,1,Entry
+Chamblee,30139.0,52423.0,33.3,2,Entry
+Saint Robert,9637.0,52416.0,29.5,1,Entry
+Spring Hill,27486.5,52414.0,44.0,2,Entry
+Jackson,27268.545454545456,52372.09090909091,37.58181818181817,11,Up and Coming
+Bismarck,28410.0,52358.0,37.0,2,Entry
+West Haven,55349.0,52353.0,36.9,1,Entry
+Zelienople,6669.0,52337.0,48.0,2,Entry
+Clear Lake,6128.5,52323.5,44.05,2,Entry
+Ripon,10893.0,52299.0,39.8,1,Entry
+Saint Albans City,13868.0,52295.0,42.2,1,Entry
+Saint Albans,13868.0,52295.0,42.2,1,Entry
+Collinsville,32843.0,52289.0,38.1,1,Entry
+Bertram,5011.0,52277.0,45.6,1,Entry
+Watertown,34708.4,52268.8,34.92,5,Up and Coming
+Petoskey,17038.0,52267.0,40.4,3,Entry
+West Kill,359.0,52212.0,51.4,1,Entry
+Brunswick,22168.0,52171.8,39.379999999999995,5,Up and Coming
+Inyokern,2125.0,52170.0,47.1,1,Entry
+Tucker,35524.0,52167.0,37.4,1,Entry
+Union,3665.0,52155.0,46.5,1,Entry
+Sauk City,5770.0,52097.0,40.3,1,Entry
+Mount Vernon,24567.8,52069.6,35.4,5,Up and Coming
+Clarkston,21402.5,52064.0,41.85,2,Entry
+King Ferry,1175.0,52054.0,47.1,1,Entry
+Lompoc,54433.0,52032.0,34.0,1,Entry
+Hallowell,2380.0,52025.0,50.8,1,Entry
+Goodview,4148.0,52000.0,45.2,1,Entry
+North Syracuse,20535.0,51997.0,43.3,1,Entry
+Port Crane,3915.0,51976.0,43.5,1,Entry
+Wauseon,13007.0,51935.0,38.6,2,Entry
+Waterbury,10169.75,51923.0,40.975,4,Up and Coming
+Elizaville,1788.0,51923.0,40.8,1,Entry
+Corning,19734.0,51902.0,40.2,4,Up and Coming
+Hammondsport,3157.0,51893.0,51.2,4,Up and Coming
+Newark,51476.0,51889.0,36.03333333333333,9,Up and Coming
+Chippewa Falls,31691.0,51886.0,40.1,2,Entry
+Waynesville,17194.0,51878.333333333336,45.93333333333334,3,Entry
+Clawson,11913.0,51868.0,40.0,1,Entry
+Sumner,10320.0,51863.0,36.5,2,Entry
+Hermitage,27383.5,51850.0,41.3,2,Entry
+Lemoore,36708.0,51850.0,27.2,2,Entry
+Scottsville,7877.0,51840.0,39.1,1,Entry
+Festus,26982.0,51828.0,39.5,1,Entry
+Burgettstown,7662.0,51824.0,45.3,1,Entry
+Bonita Springs,38434.0,51818.0,50.2,1,Entry
+Summerville,66204.0,51814.0,35.0,1,Entry
+Upland,51381.0,51805.0,33.2,3,Entry
+Ellsworth,7028.0,51801.0,43.599999999999994,2,Entry
+La Conner,4147.0,51799.0,52.2,1,Entry
+PAW PAW,13332.0,51765.0,39.9,1,Entry
+Paw Paw,13332.0,51765.0,39.9,3,Entry
+Keene,25563.0,51744.0,35.8,2,Entry
+Parsonsburg,3870.0,51729.0,38.8,1,Entry
+Lake Mills,6437.0,51705.333333333336,42.46666666666667,3,Entry
+Amherst,15157.4,51705.2,35.160000000000004,5,Up and Coming
+La Mesa,38828.0,51694.0,37.2,2,Entry
+Ottawa,24105.0,51685.0,43.0,2,Entry
+Excelsior Springs,16628.0,51679.0,38.7,1,Entry
+Minneapolis,20071.13157894737,51655.44736842105,32.83157894736843,38,Mature
+Osseo,4776.0,51636.0,42.2,1,Entry
+Las Vegas,29243.933333333334,51633.53333333333,37.46666666666667,15,Up and Coming
+Hollywood,34271.333333333336,51609.0,44.199999999999996,3,Entry
+Waterford,22185.0,51596.0,39.4,1,Entry
+Sheboygan,31692.5,51595.5,39.8,2,Entry
+Hermiston,25598.0,51588.0,33.1,1,Entry
+Kalona,5431.0,51544.0,38.8,1,Entry
+Lemon Grove,25719.0,51542.0,35.4,1,Entry
+Vicksburg,17975.666666666668,51531.0,39.9,3,Entry
+Mint Hill,51870.0,51527.0,37.1,1,Entry
+Glendive,8453.0,51500.0,42.1,1,Entry
+Shoreline,46405.0,51499.0,38.1,1,Entry
+New Buffalo,3812.0,51496.0,49.8,2,Entry
+Madeira Beach,14910.0,51489.0,57.1,1,Entry
+Greenfield,24894.0,51486.333333333336,41.833333333333336,3,Entry
+Merritt Island,22097.0,51470.0,48.6,2,Entry
+Great Barrington,8200.0,51467.0,47.1,1,Entry
+Charlottesville,28066.714285714286,51463.71428571428,33.65714285714286,7,Up and Coming
+Chelan,6929.0,51411.0,38.0,1,Entry
+Riverhead,29579.0,51350.0,39.1,6,Up and Coming
+Lawton,6643.0,51337.0,40.1,1,Entry
+Panama City Beach,9164.0,51328.0,37.7,2,Entry
+Saint Joseph,15162.333333333334,51309.333333333336,33.56666666666666,3,Entry
+Colorado Springs,22256.35714285714,51305.71428571428,36.29285714285715,28,Mature
+Wisconsin Dells,10265.0,51301.0,44.0,2,Entry
+Hope Mills,33279.0,51295.0,32.8,1,Entry
+Artesia,16865.0,51294.0,33.2,1,Entry
+Vero Beach,18362.666666666668,51267.0,53.166666666666664,3,Entry
+Miamisburg,36006.0,51265.0,39.5,2,Entry
+Cedar Falls,42337.0,51257.0,27.7,1,Entry
+South Hadley,30571.0,51255.0,43.4,1,Entry
+Chicopee,30571.0,51255.0,43.4,1,Entry
+Linwood,293.0,51250.0,34.8,1,Entry
+Rogers,37943.2,51240.0,34.34,5,Up and Coming
+Irwindale,77192.0,51232.0,31.1,1,Entry
+Bishop,14250.0,51218.0,46.7,1,Entry
+Detroit Lakes,16260.0,51207.0,44.2,1,Entry
+Wenatchee,41416.0,51176.0,37.2,4,Up and Coming
+Waitsburg,1715.0,51169.0,42.8,1,Entry
+Woodland,37686.0,51158.0,37.8,1,Entry
+Bossier City,35691.5,51158.0,34.0,2,Entry
+Davison,32169.0,51156.0,39.6,1,Entry
+Portland,24340.783018867925,51154.09433962264,35.798113207547225,106,Mature
+Palm Coast,36076.0,51153.0,53.7,1,Entry
+Punta Gorda,19723.0,51136.0,64.7,1,Entry
+Winterset,8217.0,51113.0,40.8,1,Entry
+Fountain City,2484.0,51103.0,45.1,1,Entry
+Osage,5786.0,51100.0,44.5,1,Entry
+Forest Park,14202.0,51055.0,39.1,1,Entry
+Nevada,2386.0,51029.0,34.5,1,Entry
+Idaho Springs,2566.0,51020.0,44.8,2,Entry
+Darlington,4863.0,51014.0,40.0,1,Entry
+Morro Bay,10896.0,51010.0,50.7,1,Entry
+Reedsburg,13507.0,50972.0,38.4,1,Entry
+Montevideo,7621.0,50946.0,42.7,1,Entry
+Ocala,24689.0,50913.0,43.2,1,Entry
+Holland,42600.75,50891.916666666664,34.525,12,Up and Coming
+Farmington,23946.2,50858.0,37.739999999999995,5,Up and Coming
+Beaverton,35629.4,50841.4,35.739999999999995,5,Up and Coming
+Merrill,19304.0,50827.0,43.2,1,Entry
+Howard,6017.0,50826.0,40.8,1,Entry
+Vinton,18464.0,50819.0,42.8,1,Entry
+Dillon,8191.0,50818.666666666664,36.6,3,Entry
+Queens,99379.0,50799.0,35.0,1,Entry
+Ridgewood,99379.0,50799.0,35.0,2,Entry
+Millheim,950.0,50769.0,37.5,1,Entry
+Pineville,9998.0,50763.0,34.9,1,Entry
+Manitou Springs,5624.0,50745.0,47.6,1,Entry
+Lake Geneva,16984.0,50733.0,42.3,1,Entry
+Hastings,23994.4,50728.8,38.96,5,Up and Coming
+Millers Falls,844.0,50714.0,52.1,1,Entry
+Bridgman,4407.0,50709.0,45.1,3,Entry
+Petersburg,21634.0,50708.5,43.224999999999994,4,Up and Coming
+Ruston,26103.0,50689.5,34.0,2,Entry
+Marietta,30652.125,50668.875,36.462500000000006,8,Up and Coming
+Fort Drum,3269.0,50667.0,22.1,1,Entry
+Dodge City,30507.0,50663.0,29.4,1,Entry
+Louisa,12997.0,50595.0,41.0,1,Entry
+Lapeer,30843.0,50587.0,43.9,1,Entry
+Fairbanks,19067.0,50585.0,31.7,2,Entry
+Canton,17050.85714285714,50567.857142857145,43.98571428571428,7,Up and Coming
+Livingston Manor,4303.0,50560.0,42.7,2,Entry
+Sheffield,2183.0,50543.0,49.5,1,Entry
+Laporte,2814.0,50538.0,52.4,1,Entry
+Windham,1687.0,50536.0,55.8,1,Entry
+Middleburgh,4498.0,50532.0,43.8,1,Entry
+Harrisburg,18783.5,50514.75,39.99999999999999,8,Up and Coming
+Napoleon,14320.0,50507.0,41.1,1,Entry
+Highlands,3833.0,50459.0,58.4,1,Entry
+Medford,40023.2,50448.0,36.36000000000001,10,Up and Coming
+Elgin,963.0,50441.0,53.1,1,Entry
+Momence,6260.0,50429.0,45.0,1,Entry
+Endicott,44363.0,50420.0,43.1,1,Entry
+Easton,34626.6,50414.6,39.52,5,Up and Coming
+Malone,15780.0,50378.0,38.9,1,Entry
+Lakeside,5495.0,50348.0,48.099999999999994,2,Entry
+Atlantic Beach,23240.0,50338.0,36.8,2,Entry
+Chicago Ridge,14294.0,50336.0,33.9,1,Entry
+Portage,22539.0,50319.666666666664,36.93333333333333,3,Entry
+Martinsville,30628.0,50314.0,40.5,2,Entry
+Baroda,2989.0,50313.0,41.1,3,Entry
+Post Falls,38032.0,50283.0,34.7,3,Entry
+Lopez Island,2435.0,50278.0,57.2,1,Entry
+Tunkhannock,12270.0,50278.0,42.4,1,Entry
+Boardman,4010.0,50239.0,27.3,1,Entry
+Weaverville,19133.0,50230.0,42.9,3,Entry
+San Pedro,61432.0,50210.0,35.6,3,Entry
+Lake Worth,41468.0,50196.5,41.15,2,Entry
+Whitethorn,1198.0,50188.0,45.5,1,Entry
+Mercer,12757.0,50159.0,43.8,1,Entry
+Saint Croix Falls,4544.0,50140.0,45.2,1,Entry
+Keansburg,13217.0,50113.0,39.2,1,Entry
+Moline,44887.0,50092.0,38.9,1,Entry
+Southport,16040.0,50079.0,55.9,1,Entry
+Holton,5629.0,50064.0,41.8,1,Entry
+Woodfin,20645.0,50058.0,42.4,1,Entry
+Washburn,3360.0,50049.0,48.4,1,Entry
+Rio Grande,3003.0,50000.0,44.5,2,Entry
+Minocqua,4743.0,49977.0,56.5,1,Entry
+Lake Elsinore,50141.0,49942.0,30.1,2,Entry
+Blue Lake,1751.0,49934.0,39.0,1,Entry
+Newfoundland,2222.0,49922.0,40.2,1,Entry
+Mount Dora,23380.0,49912.0,44.8,1,Entry
+Phoenicia,935.0,49911.0,58.1,1,Entry
+Colrain,1784.0,49886.0,46.5,1,Entry
+Wausau,26120.75,49869.25,40.4,4,Up and Coming
+Lockport,50807.0,49849.0,41.2,1,Entry
+Leavenworth,12235.2,49841.6,47.8,5,Up and Coming
+Mariposa,11471.0,49780.0,50.4,2,Entry
+Taylors,42351.0,49773.0,38.5,1,Entry
+Marshalltown,31589.0,49767.0,37.8,1,Entry
+Chehalis,23647.0,49762.0,41.0,1,Entry
+Ocean Isle Beach,6293.0,49750.0,57.7,1,Entry
+Pennsauken,18502.0,49747.0,36.4,1,Entry
+Alpine,4447.0,49744.0,38.6,2,Entry
+Davis,28991.5,49740.666666666664,32.68333333333333,6,Up and Coming
+Delton,7201.0,49693.0,47.9,1,Entry
+East Rochester,8006.0,49683.0,37.5,1,Entry
+Plant City,18477.0,49680.0,43.4,1,Entry
+Meridian,20578.0,49664.0,40.3,1,Entry
+Forest Grove,24816.0,49663.0,36.2,3,Entry
+Catasauqua,9316.0,49653.0,42.0,1,Entry
+Buena Vista,7144.0,49648.0,47.2,1,Entry
+Henderson,30329.125,49606.875,37.900000000000006,8,Up and Coming
+Flagstaff,40794.0,49584.555555555555,29.944444444444443,9,Up and Coming
+North Woodstock,1111.0,49583.0,45.0,1,Entry
+Pendleton,21829.0,49576.0,39.2,2,Entry
+Moorhead,41120.0,49574.0,29.9,1,Entry
+Calmar,1939.0,49564.0,39.2,1,Entry
+Brattleboro,16819.0,49552.0,44.1,3,Entry
+Cuyahoga Falls,24896.2,49544.0,38.4,5,Up and Coming
+Newcastle,1847.0,49539.0,45.6,1,Entry
+Glasgow,4626.0,49538.0,45.0,1,Entry
+Astoria,21861.25,49534.5,41.599999999999994,8,Up and Coming
+Bozeman,30915.0,49487.0,31.179999999999996,10,Up and Coming
+Long Branch,30879.0,49482.0,35.0,1,Entry
+Earlton,1276.0,49479.0,49.7,1,Entry
+Ranier,138.0,49479.0,58.0,1,Entry
+Appomattox,9625.0,49466.0,45.1,1,Entry
+Red Lodge,3301.0,49458.0,50.7,1,Entry
+Lake Milton,2551.0,49432.0,46.8,1,Entry
+Monmouth,7444.5,49423.5,38.8,2,Entry
+Boise,26272.933333333334,49400.066666666666,36.2,15,Up and Coming
+Seguin,46816.0,49399.0,38.7,2,Entry
+Catskill,10706.0,49396.0,41.9,1,Entry
+Carbondale,17240.4,49385.0,35.720000000000006,5,Up and Coming
+Islamorada,3849.0,49375.0,54.9,2,Entry
+Xenia,38313.0,49370.0,40.9,1,Entry
+Baltimore,30448.8,49357.5,33.66,20,Up and Coming
+Plum City,1335.0,49345.0,44.6,1,Entry
+Oshkosh,26113.25,49313.25,38.199999999999996,4,Up and Coming
+Angel Fire,2050.0,49260.0,50.0,1,Entry
+Mancos,3885.0,49250.0,51.4,1,Entry
+Seminole,16835.0,49230.0,46.0,1,Entry
+Pomona,51304.75,49178.75,29.825,4,Up and Coming
+Pagosa Springs,11531.0,49176.0,47.6,2,Entry
+Proctorsville,803.0,49167.0,48.8,1,Entry
+Wayne,6736.0,49167.0,25.6,1,Entry
+Laramie,21022.0,49121.0,27.5,3,Entry
+Surprise,47274.0,49093.0,49.4,1,Entry
+Peoria,27803.375,49073.5,40.599999999999994,8,Up and Coming
+Comstock Park,16115.0,49067.0,32.0,4,Up and Coming
+Gardner,20388.0,49067.0,40.7,1,Entry
+New Ulm,16637.0,49064.0,42.7,1,Entry
+Manhattan,34773.0,49062.333333333336,27.933333333333334,3,Entry
+Moses Lake,40819.0,49062.0,33.6,3,Entry
+South Dennis,6018.0,49024.0,52.2,1,Entry
+Muscatine,30409.0,48980.0,38.4,2,Entry
+Brewer,9428.0,48979.0,40.8,3,Entry
+Beulah,3443.0,48972.0,50.4,1,Entry
+Boynton Beach,20211.0,48968.0,43.4,4,Up and Coming
+Menasha,25714.0,48964.0,37.5,1,Entry
+Kearney,16312.0,48949.0,35.3,1,Entry
+Vallejo,32813.5,48943.5,37.099999999999994,2,Entry
+Green Bay,30471.14285714286,48941.28571428572,36.7,7,Up and Coming
+Hayward,36299.5,48940.5,40.150000000000006,2,Entry
+El Reno,18888.0,48938.0,39.0,1,Entry
+Eagle Nest,615.0,48929.0,49.9,1,Entry
+Bridgewater Corners,496.0,48929.0,52.2,1,Entry
+Fergus Falls,18597.0,48919.0,43.7,2,Entry
+McKinleyville,19055.0,48914.0,37.7,2,Entry
+Keeseville,3959.0,48869.0,46.2,1,Entry
+Merrillville,39023.0,48865.0,35.7,1,Entry
+Goliad,5817.0,48858.0,44.7,1,Entry
+Columbia Falls,13738.0,48849.0,41.3,1,Entry
+Rosholt,2416.0,48833.0,47.2,1,Entry
+Manitowish Waters,910.0,48816.0,55.6,1,Entry
+Plattsburgh,11791.0,48790.666666666664,44.96666666666667,3,Entry
+Bremerton,21050.166666666668,48770.0,33.76666666666667,6,Up and Coming
+Hoonah,775.0,48750.0,42.7,1,Entry
+Cheyenne,36161.0,48750.0,33.4,3,Entry
+Millville,36592.0,48750.0,37.9,1,Entry
+Auburn ,19363.0,48743.0,38.8,1,Entry
+Sayre,11177.0,48731.0,44.1,1,Entry
+Montgomery,12489.0,48690.0,37.64,5,Up and Coming
+Duncansville,12412.0,48678.0,45.5,1,Entry
+Las Cruces,28009.0,48669.6,37.22,5,Up and Coming
+Wyandotte,25621.0,48664.0,41.0,1,Entry
+Ocracoke,594.0,48644.0,53.2,1,Entry
+Spokane Valley,21515.0,48629.5,39.35,2,Entry
+Defiance,28349.0,48614.0,39.6,1,Entry
+Midvale,30942.0,48593.0,30.4,4,Up and Coming
+El Dorado,17831.0,48590.0,34.4,1,Entry
+Whiting,12289.0,48580.0,39.2,1,Entry
+Roslyn,901.0,48571.0,43.1,1,Entry
+Clearwater,12741.166666666666,48569.0,42.23333333333333,6,Up and Coming
+Selinsgrove,14941.0,48561.0,38.0,1,Entry
+Willernie,520.0,48542.0,37.2,1,Entry
+Warsaw,9233.5,48534.0,39.1,2,Entry
+Independence,21699.5,48529.0,35.6,2,Entry
+Salinas,26642.0,48514.0,35.0,2,Entry
+Heath,16911.0,48504.0,40.5,1,Entry
+Dolores,5207.0,48500.0,43.1,1,Entry
+Columbiana,10422.0,48480.0,46.2,1,Entry
+Grand Marais,2383.6666666666665,48479.0,55.56666666666666,3,Entry
+Blanco,5379.0,48438.0,45.3,1,Entry
+Raytown,33567.0,48407.0,40.1,1,Entry
+Kunia,689.0,48346.0,24.0,1,Entry
+Carrabassett Valley,1779.0,48333.0,48.4,1,Entry
+Sacramento,21305.4,48327.35,34.62999999999999,20,Up and Coming
+Gardena,32836.0,48317.5,38.575,4,Up and Coming
+Maryville,24513.0,48295.0,39.4,1,Entry
+Denver,26995.641304347828,48279.967391304344,32.81847826086954,92,Mature
+Lincolnville,3805.0,48274.0,49.9,1,Entry
+Dundalk,54523.0,48267.0,40.8,2,Entry
+York,19377.0,48252.857142857145,38.300000000000004,7,Up and Coming
+Suttons Bay,4186.0,48237.0,48.7,1,Entry
+Somers Point,11001.0,48220.0,39.1,1,Entry
+middleburg hts,50416.0,48212.0,44.0,1,Entry
+Middleburg Heights,50416.0,48212.0,44.0,2,Entry
+Marshall,13971.25,48201.25,40.25,4,Up and Coming
+West Monroe,34018.0,48191.0,36.0,1,Entry
+Port Saint Lucie,31356.0,48173.0,51.95,2,Entry
+Riverton,19777.0,48161.0,35.0,1,Entry
+Perry,5434.0,48153.0,42.0,1,Entry
+Port Clinton,13659.0,48135.0,46.1,1,Entry
+Catawba Island,13659.0,48135.0,46.1,1,Entry
+La Porte,43335.0,48132.0,39.8,1,Entry
+Paducah,28249.0,48113.0,42.4,2,Entry
+Gaylord,19658.0,48102.0,42.5,1,Entry
+Canaan,2782.0,48100.0,45.6,1,Entry
+Willard,8386.0,48082.0,35.8,1,Entry
+Interlaken,2276.0,48080.0,44.0,1,Entry
+Concrete,3990.0,48071.0,47.1,1,Entry
+Saint Marys,13140.0,48061.0,46.9,1,Entry
+Casselberry,34681.0,48043.0,38.7,1,Entry
+Oakland Park,28709.0,48025.0,39.6,1,Entry
+Gresham,38471.75,48024.75,34.95,4,Up and Coming
+Louisville,18538.36,48015.92,37.084,25,Mature
+Beaver Falls,28115.0,47993.0,42.2,1,Entry
+Banner Elk,6604.0,47992.0,40.0,1,Entry
+Beech Mountain,6604.0,47992.0,40.0,1,Entry
+Southern Pines,13980.0,47982.0,48.6,2,Entry
+Quilcene,2011.0,47981.0,53.1,1,Entry
+Waynesboro,31706.0,47970.0,41.9,3,Entry
+Lena,4136.0,47955.0,46.1,2,Entry
+Cocoa Beach,13958.0,47952.0,53.6,1,Entry
+Atkinson,2112.0,47941.0,40.7,1,Entry
+Fairmount,4812.0,47936.0,44.1,1,Entry
+Sanford,43159.666666666664,47926.833333333336,35.733333333333334,6,Up and Coming
+Saint Cloud,30480.333333333332,47920.666666666664,28.46666666666667,3,Entry
+Melbourne,32790.666666666664,47910.0,45.666666666666664,3,Entry
+Wixom,16560.0,47908.0,33.9,1,Entry
+Waterloo ,29075.0,47900.0,38.6,1,Entry
+Gulf Shores,12678.0,47892.0,43.9,1,Entry
+Cape Girardeau,36346.0,47890.0,33.0,1,Entry
+North East,12587.0,47867.0,41.3,1,Entry
+Goshen,33137.0,47863.0,33.4,2,Entry
+Wheat Ridge,24712.0,47841.0,43.0,2,Entry
+Macclenny,14185.0,47823.0,35.9,1,Entry
+Greenville,28477.29411764706,47801.35294117647,36.70588235294118,17,Up and Coming
+Salisbury,27180.428571428572,47799.42857142857,35.4,7,Up and Coming
+Sanger,35768.0,47781.0,32.6,1,Entry
+Chico,35407.0,47774.5,31.799999999999997,4,Up and Coming
+Sequim,27411.0,47771.0,57.4,1,Entry
+Ogden,39966.75,47767.0,30.575000000000003,4,Up and Coming
+Corydon,16491.0,47745.0,41.6,1,Entry
+Lowville,8806.0,47716.0,40.6,1,Entry
+Lagrange,28553.0,47700.0,39.3,1,Entry
+Ukiah,33538.0,47698.0,36.0,2,Entry
+Penn Yan,12990.0,47697.0,41.4,3,Entry
+Ceres,43160.0,47691.0,31.0,1,Entry
+Dunedin,37580.0,47676.0,52.39999999999999,7,Up and Coming
+Pine,1989.0,47667.0,61.0,1,Entry
+Jonesborough,27349.0,47647.0,40.5,1,Entry
+Danielson,10223.0,47628.0,41.8,1,Entry
+Kelseyville,12248.0,47603.0,44.7,1,Entry
+Findlay,54941.0,47592.0,38.7,1,Entry
+Sunriver,5971.0,47585.0,46.2,1,Entry
+Pine City,9171.0,47556.0,43.2,1,Entry
+Great Falls,20568.0,47554.0,38.650000000000006,2,Entry
+Fort Walton Beach,19868.0,47506.0,39.6,2,Entry
+New Port Richey,33255.666666666664,47488.666666666664,46.53333333333333,3,Entry
+Vineland,43402.0,47454.0,36.3,1,Entry
+Frankfort,3799.0,47444.0,52.4,2,Entry
+Montebello,63016.0,47438.0,35.3,1,Entry
+Garland,45238.0,47400.0,31.65,2,Entry
+West Terre Haute,8935.0,47381.0,42.2,1,Entry
+Orlando,28166.5,47373.78571428572,36.971428571428575,14,Up and Coming
+San Gabriel,37246.0,47368.0,41.3,1,Entry
+Dalton,17723.5,47364.5,42.05,2,Entry
+Put In Bay,536.0,47344.0,54.9,1,Entry
+Newnan,52604.0,47331.0,36.8,1,Entry
+Saranac Lake,7881.0,47329.0,46.1,1,Entry
+Sainte Genevieve,11034.0,47304.0,43.0,2,Entry
+Lake Lure,2484.0,47292.0,58.0,1,Entry
+Eastsound,3651.0,47279.0,50.7,1,Entry
+Minerva,10943.0,47277.0,41.7,1,Entry
+Callaway,2539.0,47273.0,43.3,1,Entry
+Grover Beach,13269.0,47271.0,38.1,2,Entry
+Silverton,7905.5,47261.5,39.95,4,Up and Coming
+Bonner,1323.0,47237.0,49.2,2,Entry
+Venango,902.0,47222.0,43.2,1,Entry
+Springdale,27238.25,47201.0,38.375,4,Up and Coming
+Cornell,2943.0,47143.0,44.8,1,Entry
+Natural Bridge,866.0,47143.0,48.8,1,Entry
+Long Island City,25537.0,47142.0,34.0,8,Up and Coming
+Cohoes,20102.0,47138.0,42.0,1,Entry
+Burton,8830.0,47127.0,41.45,2,Entry
+Fort Laurderdale,52915.0,47112.0,38.4,1,Entry
+Jefferson City,29610.0,47111.0,34.7,1,Entry
+Lake Placid,5370.0,47091.0,45.0,3,Entry
+Cincinnati,15144.235294117647,47079.05882352941,35.155882352941184,34,Mature
+Arnaudville,10199.0,47027.0,38.9,1,Entry
+Lawrenceville,34744.0,47003.0,33.8,1,Entry
+Wheeling,41530.666666666664,46987.333333333336,41.43333333333334,3,Entry
+Liberty,11025.5,46973.5,42.875,4,Up and Coming
+Lockhart,17542.0,46967.0,37.4,1,Entry
+Bristol,27069.5,46936.5,42.94,10,Up and Coming
+Decatur,17230.4,46934.7,37.510000000000005,10,Up and Coming
+Los Banos,38929.0,46933.0,30.5,1,Entry
+Hickory,22608.0,46921.25,41.6,4,Up and Coming
+Oakland,25585.0625,46913.125,36.70624999999999,16,Up and Coming
+Angola,18016.0,46909.0,37.3,1,Entry
+Van Nuys,38614.0,46900.5,34.6,2,Entry
+Two Harbors,6936.0,46891.0,45.5,1,Entry
+Bear Creek,3583.0,46866.0,48.4,1,Entry
+Jasper,15875.0,46865.0,39.650000000000006,4,Up and Coming
+South Lake Tahoe,28686.0,46859.0,40.0,7,Up and Coming
+Grand Lake,1605.0,46858.0,51.5,1,Entry
+El Cajon,57747.0,46856.0,34.1,1,Entry
+Carson City,23090.0,46853.5,40.25,2,Entry
+Eau Claire,41616.333333333336,46842.333333333336,32.50000000000001,3,Entry
+Gold Hill,3395.0,46823.0,41.7,1,Entry
+Sherrodsville,2179.0,46818.0,51.4,1,Entry
+Sheridan,19511.0,46787.166666666664,40.766666666666666,6,Up and Coming
+West Burke,1569.0,46776.0,39.4,1,Entry
+Sedona,10990.0,46775.0,57.5,3,Entry
+Greencastle,20512.0,46754.0,35.1,1,Entry
+Norfolk,15960.8,46753.5,29.800000000000004,10,Up and Coming
+Montrose,17912.333333333332,46746.666666666664,43.46666666666666,6,Up and Coming
+Burlington,22134.733333333334,46741.333333333336,35.08666666666667,15,Up and Coming
+Bucksport,5494.0,46731.0,40.9,1,Entry
+Niles,30111.0,46725.0,48.2,1,Entry
+Tryon,6662.0,46713.0,56.9,1,Entry
+Bellefontaine,19361.0,46706.0,38.5,1,Entry
+Williams,4385.666666666667,46697.0,42.46666666666667,3,Entry
+Bellaire,4232.0,46697.0,53.7,1,Entry
+Saint Paul,16422.708333333332,46671.75,34.47916666666667,24,Up and Coming
+Putnam,9524.0,46657.0,38.5,1,Entry
+Celina,19285.0,46650.0,42.5,1,Entry
+Bemidji,33418.0,46640.0,34.8,1,Entry
+Albia,5948.0,46617.0,40.6,1,Entry
+Warren,18764.85714285714,46616.71428571428,40.65714285714285,7,Up and Coming
+Sibley,3455.0,46613.0,42.9,1,Entry
+Miami Beach,38066.0,46612.0,38.1,2,Entry
+Walla Walla,41513.0,46605.0,38.0,5,Up and Coming
+Smithton,2071.0,46573.0,43.8,1,Entry
+Massillon,46219.0,46571.0,42.0,2,Entry
+Vancouver,26952.058823529413,46539.0,36.05882352941177,17,Up and Coming
+Ashland,23453.333333333332,46527.166666666664,42.13333333333333,6,Up and Coming
+Mifflinburg,10012.0,46512.0,38.3,1,Entry
+Cle Elum,5668.0,46509.0,48.7,2,Entry
+Lake Almanor,3826.0,46463.0,54.3,1,Entry
+Sioux Falls,32663.6,46443.2,33.96,5,Up and Coming
+Naches,3879.0,46429.0,46.2,1,Entry
+Shelton,35611.0,46425.0,41.9,1,Entry
+Idaho Falls,25335.0,46414.0,35.3,2,Entry
+Lovington,14770.0,46414.0,29.3,1,Entry
+Travelers Rest,20841.0,46409.0,36.0,1,Entry
+Buchanan,10299.0,46378.0,42.9,1,Entry
+New Bern,28683.0,46376.0,41.3,1,Entry
+Bath,10889.0,46367.0,44.1,1,Entry
+Boyne City,7848.0,46356.0,42.9,1,Entry
+Cartersville,21652.0,46344.0,35.9,1,Entry
+Elk Rapids,2251.0,46318.0,50.3,1,Entry
+Shiner,4127.0,46307.0,46.1,1,Entry
+Port Lavaca,17238.0,46296.0,36.9,1,Entry
+Bellville,9296.0,46250.0,41.5,1,Entry
+Fort Myers,22102.166666666668,46242.666666666664,44.71666666666666,6,Up and Coming
+Ontario,38822.5,46224.5,33.8,4,Up and Coming
+Florence,27767.333333333332,46218.333333333336,40.91111111111112,9,Up and Coming
+New Smyrna Beach,24369.0,46200.0,49.4,3,Entry
+Temecula,8609.42857142857,46195.857142857145,42.628571428571426,7,Up and Coming
+Marine City,7756.0,46190.0,43.2,1,Entry
+Corpus Christi,24284.0,46184.166666666664,35.833333333333336,6,Up and Coming
+Whitefish,12567.0,46176.0,44.1,2,Entry
+Conroe,23727.0,46156.666666666664,33.9,3,Entry
+Charlevoix,9186.0,46145.0,46.7,2,Entry
+Omaha,18383.85714285714,46135.71428571428,33.00714285714286,14,Up and Coming
+Biddeford,23336.0,46125.0,36.0,3,Entry
+Elizabeth City,40468.0,46110.0,36.7,1,Entry
+Tallahassee,34349.0,46103.28571428572,31.0,7,Up and Coming
+Marble Falls,16916.0,46086.0,44.1,2,Entry
+Harrison,16836.0,46082.0,45.35,2,Entry
+Kiln,7661.0,46066.0,40.5,1,Entry
+Floyd,6426.0,46040.0,45.5,1,Entry
+Saint James,9069.0,46015.0,42.7,1,Entry
+Wooster,42807.0,45997.0,39.5,1,Entry
+Hawthorne,93994.0,45995.0,31.5,3,Entry
+Moab,9525.0,45975.0,39.3,2,Entry
+Kingman,26231.0,45971.0,43.9,2,Entry
+Marquette,33767.0,45969.0,34.7,5,Up and Coming
+Flushing,107962.0,45964.0,31.5,1,Entry
+Ithaca,50098.5,45961.5,29.9,4,Up and Coming
+Alliance,10189.0,45934.0,40.9,1,Entry
+Rochester,30166.78947368421,45931.36842105263,33.457894736842114,19,Up and Coming
+Dickinson Center,830.0,45903.0,35.7,1,Entry
+Crawfordsville,28124.0,45868.0,40.0,1,Entry
+Ormond Beach,30338.5,45855.0,53.599999999999994,2,Entry
+Columbia,30543.166666666668,45845.77777777778,28.09444444444445,18,Up and Coming
+Bethlehem,25888.2,45837.4,33.6,5,Up and Coming
+Mesa,48583.4,45828.2,35.879999999999995,5,Up and Coming
+Trenton,8852.0,45780.5,38.400000000000006,2,Entry
+Helper,4091.0,45765.0,35.9,1,Entry
+Pryor,16773.0,45741.0,37.1,1,Entry
+Columbus,24985.555555555555,45719.13888888889,32.780555555555544,36,Mature
+Menomonie,25904.0,45719.0,27.7,2,Entry
+Valentine,3903.0,45700.0,48.7,1,Entry
+Janesville,20209.0,45694.5,39.099999999999994,2,Entry
+Richland Center,10846.0,45685.0,43.0,1,Entry
+Talkeetna,1392.0,45662.0,47.3,1,Entry
+Lisbon,13213.0,45636.0,42.7,1,Entry
+Drexel,2306.0,45625.0,41.7,1,Entry
+Cape Coral,27781.333333333332,45597.333333333336,45.93333333333334,3,Entry
+Seneca Falls,10716.0,45591.0,41.5,1,Entry
+Kissimmee,44675.0,45589.0,36.2,1,Entry
+Salina,51196.0,45557.0,37.3,1,Entry
+McPherson,51196.0,45557.0,37.3,1,Entry
+Glens Falls,14652.0,45538.0,39.5,3,Entry
+Hamilton,24415.285714285714,45536.0,41.714285714285715,7,Up and Coming
+Philadelphia,27552.44,45522.48,32.89200000000001,25,Mature
+Walkerton,7644.0,45515.0,45.0,1,Entry
+Lake City,8628.5,45501.5,47.5,2,Entry
+Whitehall,14506.0,45493.333333333336,40.86666666666667,3,Entry
+Brooklyn Ctr,27803.0,45490.0,32.3,1,Entry
+Saint Johnsbury,9754.0,45470.0,43.2,1,Entry
+Arrington,2298.0,45435.0,36.3,1,Entry
+South Padre Island,2911.0,45432.0,60.0,1,Entry
+Rivesville,2937.0,45375.0,43.1,1,Entry
+Waldoboro,5042.0,45360.0,40.8,1,Entry
+Brazil,19168.0,45352.0,41.2,1,Entry
+Ojo Caliente,1114.0,45327.0,29.0,1,Entry
+San Marcos,53596.166666666664,45304.666666666664,31.29166666666666,12,Up and Coming
+Cheektowaga,33075.0,45279.0,40.8,1,Entry
+Manitowoc,39854.0,45277.0,43.9,2,Entry
+Mills River,15406.0,45273.0,40.6,1,Entry
+Fletcher,15406.0,45273.0,40.6,1,Entry
+Holdrege,6464.0,45240.0,45.0,1,Entry
+Bay City,40208.0,45237.0,43.6,2,Entry
+Newport,14614.777777777777,45226.88888888889,40.98888888888888,9,Up and Coming
+del Valle,21096.0,45212.0,30.0,2,Entry
+Burdett,1836.0,45208.0,42.3,2,Entry
+Slippery Rock,13758.0,45203.0,23.4,2,Entry
+State College,33357.0,45202.0,25.8,2,Entry
+Aberdeen,24299.0,45182.25,37.925,4,Up and Coming
+Delray Beach,21377.0,45173.0,37.5,1,Entry
+Gunnison,9106.0,45169.0,31.3,1,Entry
+North Platte,29745.0,45156.0,38.4,1,Entry
+Moose Lake,4615.0,45156.0,45.8,1,Entry
+Edinburg,4299.5,45146.5,47.1,2,Entry
+Grand Island,30923.0,45136.0,33.4,1,Entry
+Dorchester,34172.0,45130.0,30.2,1,Entry
+Bedford,17790.75,45125.5,42.574999999999996,4,Up and Coming
+Manquin,1270.0,45125.0,31.2,1,Entry
+Higginsville,6347.0,45062.0,38.3,1,Entry
+Perryville,16429.0,45046.0,39.1,1,Entry
+Staunton,35256.0,45044.0,43.1,5,Up and Coming
+Taft,17143.0,45024.0,32.0,1,Entry
+Lockland,30003.0,45021.0,39.0,1,Entry
+McKenzie,320.0,45000.0,50.1,1,Entry
+Big Spring,34255.0,45000.0,37.1,1,Entry
+Elmira,6943.0,45000.0,39.7,1,Entry
+Ferndale,22773.0,44986.0,35.7,3,Entry
+Kalispell,49962.0,44982.0,39.2,5,Up and Coming
+Ovid,2806.0,44907.0,37.3,1,Entry
+Tillamook,13675.0,44878.0,43.5,3,Entry
+Randolph,4486.0,44869.0,46.7,1,Entry
+Millersburg,19256.0,44866.0,30.2,1,Entry
+Red River,434.0,44853.0,50.0,1,Entry
+Willmar,23064.0,44851.0,37.0,1,Entry
+Clarksville,44301.0,44843.0,29.7,5,Up and Coming
+Luray,11374.0,44817.0,45.5,1,Entry
+New Kensington,38292.0,44778.0,45.3,1,Entry
+Tulare,70820.0,44775.0,29.9,1,Entry
+Indianapolis,24242.5,44772.705882352944,34.4470588235294,34,Mature
+Elkton,9403.0,44765.0,45.8,1,Entry
+Coeur D Alene,29448.0,44710.0,38.475,4,Up and Coming
+Constantine,4507.0,44699.0,41.4,1,Entry
+Mayville,3496.0,44698.0,41.0,1,Entry
+Quinter,1446.0,44688.0,41.8,1,Entry
+Ames,29222.666666666668,44679.666666666664,27.400000000000002,3,Entry
+Spring Park,1862.0,44667.0,51.2,1,Entry
+Avondale,39263.0,44658.0,28.1,1,Entry
+Evansville,27224.5,44652.5,38.775000000000006,4,Up and Coming
+Winona,35624.0,44620.0,31.5,1,Entry
+Abilene,25049.5,44612.75,33.0,4,Up and Coming
+Brenham,27984.0,44612.0,40.5,1,Entry
+Los Angeles,31741.304347826088,44592.69565217391,36.83043478260869,23,Up and Coming
+Rome,38713.0,44555.5,40.9,2,Entry
+Rhinelander,19965.0,44554.0,46.6,1,Entry
+Brainerd,29231.0,44553.0,39.4,1,Entry
+Baxter,29231.0,44553.0,39.4,1,Entry
+McMinnville,36250.0,44541.0,36.4,5,Up and Coming
+Belding,10848.0,44533.0,37.5,1,Entry
+Bloomsburg,31207.0,44521.0,32.1,2,Entry
+Prescott,19096.0,44513.0,54.05,4,Up and Coming
+Harrodsburg,18977.0,44504.0,42.3,1,Entry
+Ilion,11199.0,44500.0,38.4,1,Entry
+Westbrook,17578.0,44465.0,39.2,2,Entry
+Cherry Valley,2035.0,44464.0,47.7,1,Entry
+Watkins Glen,4473.0,44448.0,43.6,2,Entry
+Miami,29225.333333333332,44446.46666666667,35.82666666666667,15,Up and Coming
+rogers,39202.0,44374.0,36.7,1,Entry
+Manson,3522.0,44357.0,40.2,2,Entry
+Huntsville,19820.88888888889,44307.77777777778,39.58888888888888,9,Up and Coming
+Wyoming,28019.0,44291.0,32.6,2,Entry
+Rocky Mount,29397.0,44282.0,41.0,3,Entry
+Du Bois,19488.0,44277.0,42.6,1,Entry
+Amsterdam,28802.0,44256.0,41.7,1,Entry
+Lewiston,28138.0,44253.0,41.86666666666667,3,Entry
+Metropolis,11841.0,44233.0,41.7,1,Entry
+Henrico ,33844.0,44224.0,35.1,1,Entry
+Hendricks,1039.0,44211.0,48.8,1,Entry
+Barberton,41346.0,44205.0,41.0,2,Entry
+GARDEN CITY,20014.0,44193.0,41.0,1,Entry
+Garden City,20014.0,44193.0,41.0,4,Up and Coming
+Custer,5707.0,44183.0,52.7,1,Entry
+Bradenton,26859.333333333332,44162.833333333336,41.5,6,Up and Coming
+Pompano Beach,26202.8,44159.8,48.040000000000006,5,Up and Coming
+Pittston,17219.0,44152.0,45.5,1,Entry
+Cathlamet,2569.0,44152.0,51.8,1,Entry
+Bangor,33244.0,44091.375,39.212500000000006,8,Up and Coming
+Peaks Island,900.0,44091.0,53.5,1,Entry
+Sherburne,4194.0,44078.0,44.9,1,Entry
+Leadville,7232.0,44073.0,34.8,1,Entry
+Greensboro Bend,522.0,44063.0,38.6,1,Entry
+Oskaloosa,15091.0,44045.0,39.9,1,Entry
+Saint Francis,9403.0,44040.0,45.3,1,Entry
+Heidelberg,19090.0,44038.0,42.7,1,Entry
+Pittsburgh,19983.5,44015.153846153844,38.54230769230769,26,Mature
+Champion,1382.0,44010.0,53.5,1,Entry
+Cortland,30031.0,43985.0,32.2,1,Entry
+Oakridge,3736.0,43982.0,55.9,1,Entry
+Enterprise,2978.0,43972.0,53.8,1,Entry
+Philipsburg,1347.0,43958.0,56.7,2,Entry
+Winooski,7071.0,43922.0,31.7,1,Entry
+Honesdale,13089.0,43906.0,44.6,2,Entry
+Allendale,19903.0,43889.0,21.3,1,Entry
+Seal Rock,1297.0,43866.0,61.0,1,Entry
+Albany,19728.555555555555,43857.88888888889,35.711111111111116,9,Up and Coming
+Bryson City,9011.0,43855.0,46.7,2,Entry
+Ishpeming,12604.0,43838.0,42.4,2,Entry
+Port Angeles,22052.0,43827.0,47.5,2,Entry
+Clinton Township,34439.0,43809.0,38.9,2,Entry
+Bandera,8053.0,43780.0,51.2,1,Entry
+Yonkers,61167.0,43767.0,34.5,1,Entry
+Urbana,18944.0,43767.0,37.7,1,Entry
+Charlotte,28085.5,43762.09375,32.137499999999996,32,Mature
+Seaside,9996.0,43750.0,45.2,2,Entry
+Twin Falls,52396.0,43726.0,33.4,1,Entry
+Summersville,10286.0,43721.0,45.3,1,Entry
+Miles City,11491.0,43698.0,41.4,1,Entry
+Candler,25488.0,43690.0,41.5,1,Entry
+Lodi,37432.8,43687.6,34.379999999999995,5,Up and Coming
+Fort Madison,13414.0,43673.0,43.1,1,Entry
+Battle Creek,21560.0,43643.0,40.6,1,Entry
+Lebanon,25281.2,43635.4,40.06,5,Up and Coming
+Cayce,12232.0,43624.0,37.3,1,Entry
+La Crosse,37941.0,43620.0,33.266666666666666,6,Up and Coming
+West Newton,5586.0,43607.0,47.6,1,Entry
+Beaver Island,610.0,43571.0,57.5,1,Entry
+Grand Rapids,31805.714285714286,43566.03571428572,32.92500000000001,28,Mature
+Black River Falls,10665.0,43558.0,44.1,2,Entry
+Blowing Rock,3749.0,43536.0,50.8,1,Entry
+Albuquerque,34395.28125,43525.0625,36.85937500000001,32,Mature
+New Stanton,3339.0,43500.0,48.2,1,Entry
+Cottonwood,13629.0,43489.5,41.2,2,Entry
+Apple Valley,39987.0,43472.0,36.8,2,Entry
+San Antonio,25876.6875,43468.5,35.51874999999999,16,Up and Coming
+Elyria,63911.0,43449.0,38.8,1,Entry
+The Dalles,20274.0,43435.0,41.2,1,Entry
+Corvallis,30312.777777777777,43430.555555555555,31.200000000000003,9,Up and Coming
+Cedar City,19719.0,43427.0,25.7,1,Entry
+New Albany,47954.0,43417.0,38.6,4,Up and Coming
+Labadie,2188.0,43385.0,42.1,1,Entry
+Conneaut Lake,5382.0,43381.0,50.0,1,Entry
+Hendersonville,39131.5,43378.25,42.150000000000006,4,Up and Coming
+Oakhurst,7308.0,43376.0,56.1,1,Entry
+Havre,12529.0,43368.0,35.9,2,Entry
+Arverne,17674.0,43354.0,35.4,1,Entry
+Kerrville,39160.0,43343.0,47.4,2,Entry
+Renton,10875.0,43339.0,37.9,4,Up and Coming
+Etna,2379.0,43325.0,51.2,2,Entry
+Algoma,5352.0,43301.0,45.9,1,Entry
+Angier,17425.0,43289.0,38.6,2,Entry
+Port Townsend,14588.0,43235.0,55.4,3,Entry
+Dearborn,39511.0,43204.5,34.6,2,Entry
+Saginaw,20892.5,43199.5,40.9,2,Entry
+Lansing,16366.42857142857,43187.0,38.800000000000004,7,Up and Coming
+Ypsilanti,46291.333333333336,43168.0,33.06666666666666,3,Entry
+Lakeport,10701.0,43136.0,46.5,1,Entry
+Fryeburg,3843.0,43110.0,43.7,1,Entry
+East Hartford,24349.0,43098.0,36.2,1,Entry
+Morehead City,14180.0,43093.0,47.9,2,Entry
+Wabash,16554.0,43091.0,44.1,1,Entry
+Wildwood,15796.5,43077.5,47.0,2,Entry
+Blue Earth,4406.0,43068.0,46.7,1,Entry
+Sandpoint,17942.0,43041.0,45.1,1,Entry
+Beavercreek,40356.0,43020.0,31.1,1,Entry
+Harrisonburg,33271.5,43018.5,27.700000000000003,4,Up and Coming
+Little Falls,14947.0,43013.0,42.6,1,Entry
+Three Rivers,10283.5,43012.5,46.8,2,Entry
+Knoxville,23096.636363636364,42992.681818181816,37.99999999999999,22,Up and Coming
+Seagrove,6324.0,42992.0,38.7,1,Entry
+Seaview,439.0,42981.0,41.3,1,Entry
+Rutland,20361.0,42981.0,44.7,1,Entry
+Hagerstown,60616.0,42979.0,37.4,1,Entry
+Worcester,20224.4,42968.4,32.86,5,Up and Coming
+North Conway,3964.0,42967.0,42.8,2,Entry
+Berwick,19334.0,42966.0,43.2,1,Entry
+North Kansas City,14938.0,42940.0,40.9,2,Entry
+Chino Valley,15933.0,42922.0,51.7,1,Entry
+Livingston,12035.0,42910.0,45.0,3,Entry
+Shenandoah,5980.0,42888.0,48.0,1,Entry
+Weed,6422.0,42857.0,42.9,1,Entry
+Baker City,12215.0,42854.0,47.0,2,Entry
+Thousand Palms,7429.0,42842.0,42.9,1,Entry
+Gainesville,27543.444444444445,42833.666666666664,26.48888888888889,9,Up and Coming
+Chambersburg,25341.0,42823.0,37.3,3,Entry
+Batavia,23208.0,42809.0,41.2,1,Entry
+Altoona,20344.5,42799.0,37.8,2,Entry
+Port Jervis,14263.0,42797.0,41.1,1,Entry
+Brookings,21259.333333333332,42785.0,33.86666666666667,3,Entry
+Paradise,460.0,42778.0,54.2,1,Entry
+Tacoma,14674.5,42751.833333333336,33.89999999999999,18,Up and Coming
+Pittsfield,25050.0,42740.0,41.8,2,Entry
+Longview,37883.333333333336,42714.666666666664,39.96666666666667,3,Entry
+Luverne,6052.0,42703.0,43.5,1,Entry
+Wolf Point,5193.0,42699.0,30.8,1,Entry
+Federalsburg,5588.0,42683.0,42.2,1,Entry
+Austintown,27381.0,42678.0,42.8,2,Entry
+West Palm Beach,23672.0,42661.666666666664,40.0,3,Entry
+Kansas City,10962.21052631579,42638.63157894737,36.79473684210525,19,Up and Coming
+Sebastian,25752.0,42633.0,51.5,2,Entry
+Narrows,4236.0,42623.0,42.5,1,Entry
+Dubuque,43799.0,42611.0,36.7,4,Up and Coming
+Yuba City,41309.0,42589.0,31.2,1,Entry
+Spearfish,14349.0,42565.0,39.2,4,Up and Coming
+Flat Rock,7771.0,42546.0,46.0,1,Entry
+Topeka,15571.666666666666,42536.0,39.43333333333333,3,Entry
+Conway,3796.0,42500.0,44.599999999999994,2,Entry
+Searsmont,1645.0,42500.0,41.3,1,Entry
+Cascade Locks,1129.0,42500.0,40.7,1,Entry
+Sulphur Springs,25000.0,42494.0,37.4,1,Entry
+Lynn,25090.0,42490.0,32.4,1,Entry
+Salida,8953.0,42485.0,47.4,2,Entry
+Cadiz,9595.0,42461.0,44.599999999999994,2,Entry
+Pittsburg,41325.666666666664,42458.666666666664,33.13333333333333,3,Entry
+Mason City,29322.0,42458.0,42.8,2,Entry
+Michigan City,43882.0,42396.0,40.9,3,Entry
+Ely,5890.0,42386.0,51.6,1,Entry
+Oneonta,22820.0,42345.0,26.8,2,Entry
+Moscow,22685.0,42341.5,30.325,4,Up and Coming
+Tawas City,5370.0,42319.0,50.5,1,Entry
+Latrobe,28469.0,42308.0,44.8,2,Entry
+Black Mountain,12599.0,42271.0,44.4,2,Entry
+Norman,28798.333333333332,42255.333333333336,30.166666666666668,3,Entry
+Billings,40924.57142857143,42249.71428571428,35.17142857142857,7,Up and Coming
+Guntersville,16523.0,42240.0,46.8,1,Entry
+Watervliet,6388.0,42237.0,37.0,1,Entry
+Sawyer,1923.0,42228.0,56.3,2,Entry
+West Allis,34696.0,42199.0,35.7,1,Entry
+Westover,19782.0,42127.0,37.2,1,Entry
+Manistee,13920.0,42102.0,46.9,1,Entry
+Cadillac,21155.0,42090.0,41.9,1,Entry
+Ticonderoga,5025.0,42083.0,48.9,1,Entry
+Assumption,1905.0,42073.0,38.8,1,Entry
+Tarpon Springs,25660.0,42067.0,51.29999999999999,3,Entry
+Harbor,14146.0,42045.0,53.6,1,Entry
+Branson,23468.0,42033.0,41.3,1,Entry
+Chase Mills,613.0,42000.0,40.1,1,Entry
+Cobden,3558.0,41996.0,40.0,1,Entry
+Hays,24080.0,41994.0,30.4,2,Entry
+Kennewick,48749.0,41990.0,30.7,1,Entry
+Mount Orab,9573.0,41921.0,35.9,2,Entry
+Lawrence,22772.6,41891.4,26.74,5,Up and Coming
+Wibaux,928.0,41875.0,49.7,1,Entry
+Whitewater,19330.0,41859.0,23.6,2,Entry
+Gold Beach,4711.0,41841.0,52.9,1,Entry
+Titusville,19856.4,41832.0,44.62,5,Up and Coming
+Ludington,16935.0,41818.0,44.6,3,Entry
+Schiller Park,11790.0,41813.0,35.7,1,Entry
+Olean,18523.0,41807.0,41.6,1,Entry
+Superior,30396.0,41798.0,37.5,2,Entry
+Roseland,1821.0,41786.0,45.9,1,Entry
+Howes Cave,904.0,41757.0,60.1,1,Entry
+Woodruff,5016.0,41743.0,49.1,1,Entry
+Grand Forks,26820.5,41734.0,29.5,2,Entry
+Fife Lake,3475.0,41728.0,47.1,1,Entry
+Galesburg,25328.666666666668,41724.333333333336,40.43333333333333,3,Entry
+INDIANAPOLIS,26488.0,41718.0,33.3,1,Entry
+Delta,13617.0,41718.0,39.1,2,Entry
+Fargo,35372.25,41672.5,31.075000000000003,4,Up and Coming
+Thermopolis,4710.0,41659.0,49.1,1,Entry
+Stockbridge,1257.0,41648.0,49.7,1,Entry
+Dahlonega,26185.0,41635.0,36.3,1,Entry
+Cannon Beach,1305.0,41625.0,43.20000000000001,3,Entry
+Krebs,2261.0,41619.0,39.2,1,Entry
+Taylor,12162.333333333334,41610.0,39.833333333333336,3,Entry
+Bridgton,5227.0,41607.0,46.6,2,Entry
+Lincolnton,38278.0,41607.0,41.1,2,Entry
+Mc Cook,9142.0,41549.0,40.9,1,Entry
+Rock Island,39082.0,41547.0,36.6,4,Up and Coming
+Lead,3543.0,41535.0,46.3,1,Entry
+Wallace,1899.0,41511.0,50.5,2,Entry
+Fort Bragg,14527.0,41496.0,45.3,1,Entry
+Bridgeport,19573.666666666668,41492.0,32.5,3,Entry
+Deland,31190.0,41455.0,44.1,1,Entry
+Sylva,16457.0,41446.0,42.2,2,Entry
+Mccloud,1475.0,41445.0,53.1,1,Entry
+Buffalo,17607.38888888889,41439.944444444445,38.022222222222226,18,Up and Coming
+Lincoln,21024.0,41435.6,32.120000000000005,15,Up and Coming
+Lexington,29149.63157894737,41429.52631578947,32.657894736842096,19,Up and Coming
+Pocatello,37877.0,41420.0,30.4,2,Entry
+Bidwell,4832.0,41417.0,40.8,1,Entry
+Lancaster,54260.0,41414.72727272727,36.19090909090909,11,Up and Coming
+Doral,38958.0,41410.0,38.3,1,Entry
+Iowa City,33544.0,41405.0,26.8,2,Entry
+Cortez,14155.0,41371.0,40.8,3,Entry
+Binghamton,19186.0,41344.0,41.1,2,Entry
+Pisgah Forest ,7166.0,41315.0,51.2,1,Entry
+Pisgah Forest,7166.0,41315.0,51.2,1,Entry
+Wawarsing,844.0,41306.0,42.7,1,Entry
+South Haven,14137.0,41297.0,42.70000000000001,3,Entry
+Carson,2810.0,41278.0,45.4,2,Entry
+Granite Falls,20632.0,41200.0,38.9,1,Entry
+Colton,57326.0,41198.0,28.5,1,Entry
+Stone Mountain,52056.0,41179.0,32.6,1,Entry
+Trinidad,12281.0,41162.0,43.3,1,Entry
+Bernalillo,10351.0,41159.0,35.0,2,Entry
+Poncha Springs,1052.0,41154.0,30.6,1,Entry
+Rowena,655.0,41146.0,41.8,1,Entry
+Holtville,8424.0,41133.0,34.6,1,Entry
+North Adams,16025.0,41103.0,41.3,1,Entry
+Pottsville,23985.0,41063.0,43.7,2,Entry
+Cape Canaveral,9868.0,41060.0,54.2,1,Entry
+Phoenix,21521.444444444445,41057.22222222222,36.67222222222223,18,Up and Coming
+Kokomo,37204.0,41034.5,40.85,2,Entry
+Waukegan,70997.0,41006.0,30.0,1,Entry
+Sebring,14204.0,41002.0,61.0,1,Entry
+Cisco,5736.0,41000.0,38.1,1,Entry
+Denison,22343.0,40999.0,41.3,1,Entry
+Bloomington,25740.11111111111,40940.555555555555,31.23333333333333,9,Up and Coming
+Ten Sleep,742.0,40938.0,52.8,1,Entry
+Tonopah,3392.0,40896.0,44.2,1,Entry
+Rice Lake,15648.0,40895.0,44.4,1,Entry
+Wichita,21120.636363636364,40877.818181818184,33.28181818181818,11,Up and Coming
+Blue Island,26021.0,40875.0,32.6,1,Entry
+Newaygo,11682.0,40852.0,44.5,1,Entry
+Tiffin,29438.0,40847.0,39.8,1,Entry
+Tukwila,23478.0,40815.0,34.6,1,Entry
+Ottumwa,29993.0,40795.0,39.1,1,Entry
+Malta,2841.0,40781.0,48.6,1,Entry
+Ripley,2294.0,40769.0,36.0,1,Entry
+Alton,32345.0,40762.0,37.5,1,Entry
+Fortuna,12877.0,40751.0,38.7,1,Entry
+Rolla,32051.0,40751.0,30.7,1,Entry
+Rutherfordton,18931.0,40744.0,45.5,1,Entry
+Meadville,28314.0,40741.0,42.2,3,Entry
+Raymond,6680.0,40741.0,47.9,1,Entry
+Brevard,18048.0,40732.0,49.4,3,Entry
+Crystal River,8778.5,40715.0,51.7,2,Entry
+Maggie Valley,3129.0,40714.0,54.6,1,Entry
+Lincoln Park,37651.0,40700.0,37.3,1,Entry
+South El Monte,43593.0,40692.0,32.4,1,Entry
+Silver City,18426.0,40686.0,44.6,1,Entry
+Deer Lodge,5711.0,40685.0,43.5,1,Entry
+Carrboro,15008.0,40658.0,30.2,3,Entry
+Hot Springs,5426.0,40645.0,51.3,1,Entry
+Adrian,41712.0,40642.0,37.2,1,Entry
+Hornell,12919.0,40638.0,40.3,1,Entry
+Stevens Point,29149.0,40627.0,27.6,2,Entry
+Williamsport,39010.333333333336,40602.0,38.61666666666667,6,Up and Coming
+Inglewood,33650.0,40601.0,32.45,2,Entry
+Nashville,20422.347826086956,40591.82608695652,32.952173913043474,23,Up and Coming
+Alcoa,7232.0,40587.0,41.5,1,Entry
+Turlock,41109.0,40564.0,32.1,2,Entry
+Ord,2949.0,40543.0,49.4,1,Entry
+Reidsville,38920.0,40542.0,42.7,1,Entry
+Bradford,17940.0,40516.0,40.7,1,Entry
+Marathon,613.0,40500.0,55.9,1,Entry
+Port Orange,20300.0,40497.0,48.1,1,Entry
+Galveston,19217.0,40481.0,39.225,4,Up and Coming
+Winnsboro,10010.0,40427.0,47.1,1,Entry
+Parkersburg,23504.0,40425.5,42.25,2,Entry
+Republic,3652.0,40417.0,45.2,1,Entry
+Colville,12132.0,40412.0,46.8,1,Entry
+Ellensburg,30484.0,40412.0,28.2,2,Entry
+Indiana,34509.0,40411.0,29.5,2,Entry
+Neosho,23715.0,40375.0,38.5,1,Entry
+Beaver Dam,8512.0,40369.0,41.9,1,Entry
+Reading,10845.0,40317.0,32.2,1,Entry
+West Reading,10845.0,40317.0,32.2,2,Entry
+Valdese,9238.0,40316.0,46.6,1,Entry
+Temple,16869.0,40237.0,39.3,1,Entry
+Yachats,2007.0,40231.0,59.2,1,Entry
+Gouverneur,9976.0,40218.0,39.8,1,Entry
+Anaconda,9011.0,40205.0,46.5,1,Entry
+Ionia,20655.0,40189.0,35.9,1,Entry
+Canon City,29956.0,40138.0,42.7,1,Entry
+Seven Points,15932.0,40135.0,45.0,1,Entry
+Gatlinburg,5356.0,40117.0,53.8,1,Entry
+Berkeley Springs,12747.0,40098.0,45.4,1,Entry
+John Day,2606.0,40071.0,46.1,1,Entry
+Roanoke,14370.25,40061.5,36.074999999999996,4,Up and Coming
+Memphis,22206.8,40056.5,35.61,10,Up and Coming
+Mc Kees Rocks,21901.0,40034.0,42.4,2,Entry
+Spruce Pine,10081.0,40000.0,43.6,1,Entry
+New Orleans,19531.615384615383,39991.0,35.607692307692304,13,Up and Coming
+Sperryville,1260.0,39950.0,45.6,2,Entry
+Tampa,24534.65,39935.8,35.49,20,Up and Coming
+Red Bluff,28084.0,39934.0,41.2,1,Entry
+Magalia,12464.0,39932.0,46.4,1,Entry
+Buhl,9917.0,39916.0,40.3,1,Entry
+New Brunswick,55476.0,39901.0,23.1,1,Entry
+Hermann,5791.0,39875.0,48.0,1,Entry
+Grants,11528.0,39868.0,38.0,2,Entry
+Morley,4844.0,39858.0,34.4,1,Entry
+Prescott Valley,35577.0,39857.0,34.2,1,Entry
+Nebo,7794.0,39847.0,41.3,1,Entry
+Caribou,9718.0,39811.0,44.0,1,Entry
+Johnson City,25786.2,39809.4,40.82,5,Up and Coming
+Fairlawn,21702.0,39808.0,30.7,1,Entry
+Radford,21702.0,39808.0,30.7,1,Entry
+Camp Verde,11283.0,39803.0,47.9,1,Entry
+Turners Falls,5513.0,39792.0,41.9,1,Entry
+Mackinaw City,865.0,39766.0,47.4,1,Entry
+June Lake,419.0,39760.0,34.5,1,Entry
+Fayetteville,27731.1875,39754.0625,33.33749999999999,16,Up and Coming
+Lake Havasu City,15666.0,39751.0,45.6,3,Entry
+Grayling,9851.0,39739.0,47.0,4,Up and Coming
+Logan,18797.0,39735.0,41.3,1,Entry
+Yuma,50282.0,39717.666666666664,33.266666666666666,3,Entry
+Fort Dodge,28492.0,39710.0,38.7,1,Entry
+Aransas Pass,11546.0,39705.0,45.4,1,Entry
+Somerset,14369.0,39703.333333333336,37.1,3,Entry
+East Lansing,49813.0,39692.0,23.8,2,Entry
+Saint Louis,18543.958333333332,39687.416666666664,33.762499999999996,24,Up and Coming
+Klamath Falls,25995.0,39679.0,39.45,2,Entry
+Pulaski,3014.0,39652.0,48.1,1,Entry
+Albert Lea,21131.0,39647.0,44.8,1,Entry
+Clifton Forge,6694.0,39635.0,46.4,1,Entry
+Aiken,27047.0,39630.0,36.9,1,Entry
+Eldred,619.0,39625.0,53.0,1,Entry
+Rapid City,43679.0,39611.0,33.5,4,Up and Coming
+Hannibal,21795.0,39600.0,39.4,1,Entry
+St Petersburg,22418.0,39590.0,43.6,2,Entry
+Cut Bank,4590.0,39572.0,31.9,1,Entry
+Tulsa,12284.583333333334,39568.083333333336,33.30833333333333,12,Up and Coming
+Central City,733.0,39537.0,43.5,1,Entry
+Eureka,20055.8,39503.0,40.019999999999996,5,Up and Coming
+Herrin,12888.0,39502.0,38.3,1,Entry
+Crescent City,24687.0,39486.0,37.9,2,Entry
+Blacksburg,53541.0,39477.0,22.600000000000005,3,Entry
+Hyannis,13552.0,39454.0,42.3,2,Entry
+El Prado,5560.0,39426.0,54.0,1,Entry
+Missoula,24951.4,39417.1,31.639999999999997,10,Up and Coming
+Milwaukee,28453.5,39338.066666666666,30.76333333333334,30,Mature
+Auburndale,28428.0,39311.0,39.9,2,Entry
+Rayland,3368.0,39306.0,45.4,1,Entry
+Banning,32134.0,39291.0,46.2,1,Entry
+Fennville,8944.0,39286.0,41.7,2,Entry
+Darrington,2328.0,39280.0,38.5,1,Entry
+Des Moines,16460.8,39278.2,32.459999999999994,5,Up and Coming
+Brooksville,18136.0,39271.0,57.3,1,Entry
+Lufkin,33824.0,39265.0,36.5,1,Entry
+Guerneville,4598.0,39258.0,48.8,1,Entry
+Abingdon,16239.0,39229.0,44.7,1,Entry
+Scottsbluff,18225.0,39206.0,38.9,1,Entry
+Hibbing,17148.0,39165.0,41.8,1,Entry
+Bellingham,44720.07692307692,39135.46153846154,29.246153846153845,13,Up and Coming
+North Versailles,10123.0,39021.0,44.9,1,Entry
+Hopkinsville,43718.0,38883.0,35.6,1,Entry
+Friendship,2636.0,38872.0,40.5,1,Entry
+Show Low,16896.0,38865.0,45.3,1,Entry
+Sandusky,23383.0,38852.5,42.6,2,Entry
+Alanson,4510.0,38852.0,41.8,1,Entry
+Springfield,20595.333333333332,38849.055555555555,36.56666666666667,18,Up and Coming
+Montour Falls,2582.0,38839.0,50.9,1,Entry
+Kellogg,3081.0,38833.0,38.5,1,Entry
+Peckville,5010.0,38826.0,52.7,1,Entry
+Townsend,2854.0,38797.0,54.5,1,Entry
+Cedaredge,5374.0,38778.0,52.9,1,Entry
+Marinette,14648.0,38775.0,43.0,1,Entry
+Burns,4106.0,38770.0,49.0,1,Entry
+Oklahoma City,17469.785714285714,38735.42857142857,32.85,14,Up and Coming
+Port Austin,2327.0,38705.0,57.4,1,Entry
+Nampa,29161.666666666668,38698.333333333336,31.333333333333332,3,Entry
+Jacksonville,19826.470588235294,38691.0,37.323529411764696,17,Up and Coming
+Portales,18901.0,38668.0,28.5,1,Entry
+Kettle Falls,5260.0,38662.0,48.1,1,Entry
+Munising,4795.0,38659.0,44.2,1,Entry
+Sturgis,9276.0,38638.0,45.9,1,Entry
+Hillsdale,14872.0,38636.0,38.2,1,Entry
+Norway,4999.0,38629.0,49.2,1,Entry
+Fort Scott,12130.0,38608.0,38.8,1,Entry
+Durham,29269.333333333332,38601.666666666664,32.92222222222223,9,Up and Coming
+Centralia,23889.0,38594.0,35.6,2,Entry
+Elkhart,36297.0,38576.666666666664,34.9,3,Entry
+Crestone,1215.0,38568.0,49.2,1,Entry
+Bonners Ferry,8252.0,38533.0,43.0,1,Entry
+Wilkes Barre,21356.75,38529.75,42.5,4,Up and Coming
+Bandon,7093.0,38515.0,57.7,1,Entry
+Greeley,50973.857142857145,38441.857142857145,28.385714285714283,7,Up and Coming
+Alpena,22429.0,38416.0,46.3,1,Entry
+Kenosha,30400.0,38412.0,34.5,2,Entry
+Elkins,14408.0,38394.0,44.6,2,Entry
+Soldiers Grove,1682.0,38375.0,47.2,1,Entry
+Hialeah,40517.0,38332.0,40.6,1,Entry
+Largo,26605.0,38331.0,47.95,2,Entry
+Lovelady,4529.0,38309.0,44.0,1,Entry
+Utica,33615.0,38290.0,36.8,2,Entry
+Roseburg,19972.0,38270.0,42.0,6,Up and Coming
+Skull Valley,491.0,38264.0,55.9,1,Entry
+Kingsford,6467.0,38262.0,46.3,1,Entry
+Bennington,14360.0,38259.0,41.4,2,Entry
+Sherman,23833.0,38216.0,32.3,2,Entry
+West Branch,10062.0,38193.0,47.5,1,Entry
+Waterville,26254.0,38182.0,40.6,1,Entry
+Sault Sainte Marie,19843.0,38118.0,37.1,3,Entry
+Machias,3329.0,38093.0,38.4,1,Entry
+Charleston,26248.882352941175,38080.35294117647,34.911764705882355,17,Up and Coming
+Chincoteague,2968.0,38036.0,49.5,1,Entry
+St. Louis,16635.0,38036.0,33.9,1,Entry
+White Sulphur Springs,1648.0,38017.0,41.8,1,Entry
+Vandergrift,8858.0,37991.0,43.3,1,Entry
+Clare,8612.0,37963.0,37.4,1,Entry
+Grants Pass,34453.6,37930.6,47.06,5,Up and Coming
+DeKalb,46267.0,37922.0,24.1,1,Entry
+Marion,25927.75,37913.75,42.775,4,Up and Coming
+Medway,3542.0,37902.0,42.5,1,Entry
+Cimarron,906.0,37895.0,47.9,1,Entry
+Paragould,36018.0,37884.0,38.3,1,Entry
+Challis,2522.0,37875.0,44.2,1,Entry
+Butte,33286.0,37847.0,41.3,3,Entry
+Paris,14050.25,37830.5,42.724999999999994,4,Up and Coming
+Gloversville,23696.0,37766.0,40.8,1,Entry
+Blue Hill,2430.0,37763.0,51.4,1,Entry
+Mission,73998.0,37735.0,32.8,1,Entry
+Knox,11272.0,37731.0,40.9,1,Entry
+Dothan,36679.0,37708.0,38.2,1,Entry
+Emporia,28837.0,37665.0,30.6,1,Entry
+Winter Haven,36076.0,37654.0,37.2,1,Entry
+Burney,3626.0,37629.0,47.7,1,Entry
+Milton Freewater,12033.0,37625.0,35.9,1,Entry
+Joliet,21448.0,37624.0,29.4,2,Entry
+Schenectady,10972.5,37622.25,39.55,4,Up and Coming
+Lewistown,15131.0,37620.0,46.2,2,Entry
+Bryan,25374.0,37569.333333333336,32.96666666666667,3,Entry
+Pueblo,19158.25,37550.75,37.425000000000004,4,Up and Coming
+Rockland,7273.0,37549.0,46.9,2,Entry
+La Junta,10071.0,37543.0,39.9,1,Entry
+Caddo,3115.0,37542.0,40.8,1,Entry
+Orono,7801.0,37528.0,24.9,4,Up and Coming
+Murphysboro,15876.0,37526.0,39.9,1,Entry
+Saint Petersburg,23480.0,37511.692307692305,40.3076923076923,13,Up and Coming
+Reads Landing,132.0,37500.0,38.0,1,Entry
+Bucyrus,934.0,37500.0,44.5,1,Entry
+Opelika,22895.0,37451.0,37.8,1,Entry
+Fort Worth,21555.30769230769,37421.38461538462,33.08461538461539,13,Up and Coming
+Cedar Rapids,23306.0,37407.28571428572,35.942857142857136,7,Up and Coming
+Du Quoin,8835.0,37407.0,41.1,1,Entry
+Bowling Green,44094.5,37388.5,28.700000000000003,2,Entry
+Hammond,21347.333333333332,37344.666666666664,32.86666666666667,3,Entry
+Waco,22744.0,37325.666666666664,30.3,3,Entry
+Morganton,55330.0,37295.0,40.2,2,Entry
+Hayesville,8174.0,37250.0,51.6,1,Entry
+Shamokin,9934.0,37212.0,42.2,1,Entry
+Edgewater,25517.0,37211.0,33.5,1,Entry
+Phenix City,21976.0,37202.0,32.9,1,Entry
+Fort Kent,4580.0,37182.0,43.6,1,Entry
+Morgantown,25758.666666666668,37172.666666666664,32.6,3,Entry
+Salt Lake City,19587.052631578947,37168.73684210526,31.915789473684214,19,Up and Coming
+Rock Hill,52496.0,37152.0,34.4,2,Entry
+Beckley,34247.0,37124.0,41.4,1,Entry
+Sparks,36812.0,37110.0,34.9,3,Entry
+Water Valley,9024.0,37073.0,39.9,1,Entry
+Zanesville,55568.0,37061.0,40.6,2,Entry
+Quincy,33125.0,37059.0,38.3,1,Entry
+Tullahoma,25301.0,37041.0,42.2,1,Entry
+Dania,15570.0,37020.0,41.5,1,Entry
+Pensacola,16376.285714285714,37005.857142857145,41.228571428571435,7,Up and Coming
+Tamaqua,11174.0,37003.0,45.1,1,Entry
+Troupsburg,980.0,37000.0,39.7,1,Entry
+Racine,27770.0,36979.0,35.6,2,Entry
+Axton,6658.0,36909.0,42.2,1,Entry
+Airway Heights,6095.0,36875.0,34.6,1,Entry
+Dowagiac,14493.0,36846.0,40.7,2,Entry
+Goldendale,7785.0,36846.0,43.8,1,Entry
+Spokane,23251.217391304348,36741.52173913043,35.330434782608684,23,Up and Coming
+Farmville,8807.0,36736.0,38.6,1,Entry
+Lincoln City,9358.0,36735.0,47.1,2,Entry
+Wilmington,28834.090909090908,36719.86363636364,34.12727272727272,22,Up and Coming
+Grand Junction,24568.0,36717.0,30.0,3,Entry
+Clearfield,14134.0,36713.0,41.9,1,Entry
+Sunnyside,22498.0,36703.0,26.8,2,Entry
+Reno,25771.894736842107,36667.05263157895,38.86842105263157,19,Up and Coming
+Brookshire,9587.0,36667.0,33.1,1,Entry
+Elkin,10683.0,36560.0,43.9,2,Entry
+Laughlin,7990.0,36536.0,53.6,1,Entry
+Denton,20811.666666666668,36528.333333333336,27.833333333333332,3,Entry
+Skowhegan,9874.0,36512.0,43.4,2,Entry
+San Bernardino,14548.0,36504.0,31.4,1,Entry
+Cheboygan,14315.0,36482.0,47.9,1,Entry
+Yakima,39676.4,36461.0,32.239999999999995,10,Up and Coming
+Coshocton,19637.0,36449.0,42.1,1,Entry
+Mountain Home,28482.0,36430.0,51.2,1,Entry
+Smithville,13470.0,36382.0,40.4,1,Entry
+Eustis,19962.0,36376.0,43.1,1,Entry
+Cape Charles,4564.0,36356.0,45.5,1,Entry
+Pontiac,12015.0,36336.666666666664,39.36666666666667,3,Entry
+Cedarville,1342.0,36335.0,55.3,1,Entry
+Eureka Springs,4176.0,36332.0,54.7,1,Entry
+Big Rapids,20473.0,36331.0,24.4,2,Entry
+New Haven,53062.0,36275.0,28.6,2,Entry
+Amite,15082.0,36263.0,33.6,1,Entry
+Maplewood,9996.0,36210.0,36.8,1,Entry
+Lake Charles,26446.0,36201.0,31.6,1,Entry
+Broken Bow,9044.333333333334,36181.666666666664,40.06666666666666,3,Entry
+Sedgwick,956.0,36125.0,48.3,1,Entry
+West Lafayette,68328.0,36101.0,22.6,1,Entry
+Asheville,22346.185185185186,36091.51851851852,38.32222222222223,27,Mature
+Carrollton,34266.0,36075.0,31.9,1,Entry
+Woonsocket,41113.0,36058.0,36.5,1,Entry
+Alma,13118.0,36051.0,32.7,1,Entry
+Hoquiam,11616.0,36036.0,39.7,1,Entry
+Ponca City,20015.0,36028.0,34.3,1,Entry
+Ruidoso Downs,3226.0,36003.0,36.0,1,Entry
+Menifee,19091.0,35935.0,62.2,1,Entry
+Keokuk,13194.0,35901.0,39.3,1,Entry
+Deming,2653.0,35895.0,48.2,1,Entry
+Boonville,1657.0,35871.0,37.8,1,Entry
+Phillipsburg,1289.0,35804.0,45.1,1,Entry
+Fort Wayne,17132.0,35794.88888888889,32.05555555555556,9,Up and Coming
+Prineville,18512.0,35764.0,45.7,1,Entry
+fayetteville,30112.0,35759.0,30.5,1,Entry
+Oroville,14948.75,35737.75,44.4,4,Up and Coming
+Cullman,20244.0,35726.0,38.0,1,Entry
+Homestead,26226.0,35723.5,37.05,2,Entry
+Shallotte,10221.0,35721.0,41.0,1,Entry
+Poplar Bluff,34486.0,35678.0,40.0,1,Entry
+Ridgeland,13953.0,35642.0,37.1,3,Entry
+Fresno,28815.333333333332,35613.444444444445,31.74444444444445,9,Up and Coming
+Eugene,43127.470588235294,35612.82352941176,32.482352941176465,17,Up and Coming
+Dayton,14737.0,35547.0,37.98181818181818,11,Up and Coming
+Kansas city,8535.0,35521.0,36.9,1,Entry
+West Jefferson,7733.0,35476.0,44.8,1,Entry
+Mosquero,219.0,35417.0,51.3,1,Entry
+Myrtle Beach,27503.0,35352.0,36.0,3,Entry
+Tempe,54032.11111111111,35283.444444444445,25.22222222222222,9,Up and Coming
+Little Rock,11966.2,35257.8,37.91,10,Up and Coming
+Toppenish,13596.0,35210.0,26.1,1,Entry
+Mathis,9108.0,35191.0,43.4,1,Entry
+Panama City,23577.0,35186.0,40.2,1,Entry
+Greensboro,22210.2,35109.4,31.54000000000001,10,Up and Coming
+Pikeville,24221.0,35061.0,39.6,1,Entry
+Tarboro,22146.0,35030.0,41.4,1,Entry
+Copper Harbor,124.0,35000.0,57.5,1,Entry
+Mishawaka,24723.0,34995.0,36.0,2,Entry
+Clarion,7553.0,34971.333333333336,30.0,3,Entry
+Bartlesville,14410.0,34954.0,36.1,1,Entry
+Uniontown,31654.0,34950.0,45.0,1,Entry
+Athens,23190.666666666668,34946.166666666664,28.875,12,Up and Coming
+Salmon,6161.0,34936.0,50.1,1,Entry
+Cynthiana,15999.0,34930.0,41.9,1,Entry
+Polson,10082.0,34871.0,42.7,1,Entry
+Winston,7353.0,34858.0,40.0,1,Entry
+Pomeroy,6550.0,34852.0,42.6,1,Entry
+Brookneal,3289.0,34835.0,50.5,1,Entry
+Shelby,28289.0,34831.0,40.5,1,Entry
+Hart,7408.0,34804.0,38.2,1,Entry
+Coos Bay,26761.0,34755.0,42.6,1,Entry
+Reedsport,5308.0,34657.0,50.1,1,Entry
+Elk River,119.0,34583.0,50.3,1,Entry
+Murphy,18562.0,34451.0,50.4,1,Entry
+Tucson,39423.05263157895,34448.78947368421,33.8578947368421,19,Up and Coming
+Kingsport,39777.0,34323.0,44.2,1,Entry
+del Norte,3136.0,34316.0,44.2,1,Entry
+Weslaco,66125.0,34297.0,29.6,1,Entry
+Raton,7663.0,34280.0,43.7,1,Entry
+Pigeon Forge,6635.0,34280.0,45.2,1,Entry
+New Bedford,43308.0,34259.0,37.4,2,Entry
+Savannah,22220.333333333332,34213.333333333336,32.199999999999996,6,Up and Coming
+Escanaba,17445.0,34212.0,43.1,2,Entry
+West Point,7777.0,34167.0,41.4,1,Entry
+West Plains,24256.0,34122.0,40.2,2,Entry
+Big Bear Lake,5213.0,34088.0,42.9,2,Entry
+Sacramento ,9802.0,34085.0,35.5,1,Entry
+Oscoda,8667.0,34080.0,50.2,1,Entry
+Lancing,2889.0,34076.0,42.5,1,Entry
+Arcata,20319.0,34046.0,27.5,1,Entry
+Belfast,8807.0,33925.0,43.4,2,Entry
+Hutchinson,26799.0,33848.0,34.1,1,Entry
+High Point,24264.666666666668,33754.0,36.06666666666667,3,Entry
+Willimantic,19792.0,33723.0,26.6,1,Entry
+Bisbee,6959.0,33658.0,47.8,1,Entry
+Maxwelton,170.0,33631.0,50.1,1,Entry
+Alsea,1237.0,33625.0,51.5,1,Entry
+Alamosa,15048.0,33620.0,30.7,3,Entry
+San Saba,4447.0,33599.0,42.2,1,Entry
+Chewelah,5178.0,33589.0,49.2,1,Entry
+Christopher,2830.0,33587.0,40.7,1,Entry
+San Angelo,32388.0,33533.0,34.3,2,Entry
+Stover,3283.0,33444.0,46.9,1,Entry
+Boone,29466.5,33312.25,27.4,4,Up and Coming
+Manistique,6456.0,33125.0,49.0,1,Entry
+Reed City,7137.0,32955.0,39.6,1,Entry
+Pawnee City,1333.0,32831.0,47.2,1,Entry
+Cookeville,34851.25,32801.75,35.375,4,Up and Coming
+Seaside Heights,4248.0,32733.0,49.8,1,Entry
+Lubec,1974.0,32670.0,52.3,1,Entry
+Albion,14539.0,32632.0,37.2,1,Entry
+Nacogdoches,17366.5,32620.0,32.45,2,Entry
+Pawtucket,43862.0,32614.0,34.9,3,Entry
+Calumet,7599.0,32588.0,39.7,1,Entry
+Davenport,4187.25,32513.75,37.6,4,Up and Coming
+Ironwood,7762.0,32512.0,46.5,1,Entry
+Tyler,26684.0,32457.0,30.3,2,Entry
+Amity,3566.0,32448.0,38.1,1,Entry
+Bronx,56820.75,32427.75,31.425,4,Up and Coming
+index,462.0,32386.0,49.2,1,Entry
+Riggins,844.0,32298.0,57.3,1,Entry
+Gadsden,20451.0,32213.0,39.3,1,Entry
+Berger,467.0,32188.0,48.4,1,Entry
+Zephyrhills,21178.0,32174.0,54.2,1,Entry
+Marksville,11031.0,32115.0,39.9,1,Entry
+Damascus,3371.0,32083.0,49.8,1,Entry
+Gary,12223.0,32069.0,38.9,1,Entry
+Pharr,72047.0,32054.0,28.6,1,Entry
+Norfork,2128.0,32049.0,43.2,1,Entry
+Dunsmuir,2179.0,32000.0,51.0,1,Entry
+Brohman,213.0,31923.0,58.9,1,Entry
+Winston Salem,25624.25,31902.5,37.3,8,Up and Coming
+Ahoskie,11945.0,31882.0,41.2,1,Entry
+Thomas,767.0,31875.0,51.6,1,Entry
+Apalachicola,3428.0,31806.0,39.1,1,Entry
+Libby,9713.0,31781.0,48.2,1,Entry
+Mt Pleasant,49502.0,31645.0,22.9,2,Entry
+New Britain,30431.0,31626.0,31.5,2,Entry
+Wichita Falls,17052.0,31565.0,31.9,1,Entry
+Natchitoches,27634.0,31515.0,30.6,1,Entry
+Galax,17947.0,31489.0,45.3,1,Entry
+Gastonia,35400.0,31467.0,35.5,1,Entry
+Park Hills,16707.0,31351.0,38.2,1,Entry
+Hot Springs National Park,29728.0,31323.0,39.5,2,Entry
+Hot Springs ,29728.0,31323.0,39.5,1,Entry
+Mcallen,61827.0,31214.0,33.5,1,Entry
+Taos,10247.0,31166.0,46.3,2,Entry
+Sharon,13952.0,31135.0,39.7,1,Entry
+Duluth,16048.363636363636,31108.18181818182,46.38181818181818,11,Up and Coming
+Anderson,22994.5,31084.5,36.45,2,Entry
+Harlowton,1291.0,31062.0,56.2,1,Entry
+Lenoir,46444.0,30968.0,42.6,1,Entry
+Hazel Park,16528.0,30875.0,35.8,1,Entry
+Houghton,9904.0,30829.0,22.399999999999995,3,Entry
+Cleveland,19417.466666666667,30736.466666666667,33.01999999999999,30,Mature
+Nelsonville,9046.0,30702.0,34.3,1,Entry
+Starkville,42474.0,30625.0,25.8,1,Entry
+Moriarty,7279.0,30602.0,40.1,1,Entry
+Andrews,5363.0,30595.0,46.1,2,Entry
+Akron,17536.2,30522.8,31.800000000000004,10,Up and Coming
+Section,3708.0,30491.0,33.7,1,Entry
+Crosby,3492.0,30491.0,47.5,1,Entry
+Providence,15158.0,30042.0,30.525000000000002,4,Up and Coming
+Colorado City,6019.0,29944.0,15.4,1,Entry
+Chattanooga,6384.090909090909,29868.81818181818,34.17272727272728,11,Up and Coming
+Toledo,22365.6,29806.4,33.14,5,Up and Coming
+Canutillo,12041.0,29799.0,30.6,1,Entry
+Beaufort,349.0,29773.0,22.5,1,Entry
+Blue Ridge,11216.0,29751.0,48.9,3,Entry
+Biloxi,8366.0,29732.0,36.5,1,Entry
+Syracuse,15179.777777777777,29673.222222222223,30.566666666666663,9,Up and Coming
+Asheboro,21009.0,29582.0,35.2,1,Entry
+Kalamazoo,16569.428571428572,29574.071428571428,30.171428571428578,14,Up and Coming
+Lorain,29946.0,29448.0,35.2,1,Entry
+Lakeland,14389.0,29417.0,40.8,3,Entry
+Flint,28189.0,29328.0,36.849999999999994,2,Entry
+Gakona,623.0,29318.0,53.1,1,Entry
+Atlantic City,39591.0,29200.0,35.5,1,Entry
+Akwesasne,3400.0,28889.0,36.0,1,Entry
+Kinston,20785.0,28529.0,38.4,1,Entry
+Prestonsburg,12465.0,28458.0,36.7,1,Entry
+Pacific City,696.0,28269.0,67.6,1,Entry
+Hapeville,15983.0,28230.0,32.3,1,Entry
+North Charleston,27173.4,28158.0,33.42,5,Up and Coming
+Statesboro,41829.0,27908.0,23.2,1,Entry
+Buckeye Lake,2456.0,27663.0,38.0,1,Entry
+Allentown,19335.0,27596.333333333332,33.199999999999996,3,Entry
+Natchez,32501.0,27476.0,39.8,1,Entry
+El Paso,39271.25,27346.75,35.675000000000004,4,Up and Coming
+Hattiesburg,44309.0,27342.0,28.9,2,Entry
+Rio Grande City,41646.0,27337.0,27.7,1,Entry
+Pullman,32148.0,27177.0,22.0,1,Entry
+Alto Pass,799.0,26940.0,43.4,1,Entry
+Tombstone,2094.0,26897.0,52.5,1,Entry
+Spartanburg,16173.0,26656.0,37.9,2,Entry
+Madison ,28111.0,26257.0,24.1,1,Entry
+okolona,5585.0,26235.0,43.2,1,Entry
+Muncie,15668.5,26068.5,37.7,2,Entry
+Benton Harbor,31647.0,25948.0,35.8,3,Entry
+Cocoa,14945.0,25797.0,40.4,1,Entry
+Cave Junction,6323.0,25663.0,45.4,1,Entry
+Clearlake,15427.0,25460.0,41.6,1,Entry
+Gulfport,21865.0,25435.0,30.7,1,Entry
+Daytona Beach,32630.0,25150.0,32.4,2,Entry
+Opa Locka,29662.0,24966.0,30.9,1,Entry
+Lovingston,1165.0,24939.0,56.8,1,Entry
+Truth or Consequences,6870.0,24874.0,54.1,1,Entry
+Augusta,19443.333333333332,24682.666666666668,38.2,3,Entry
+Ponderay,983.0,24583.0,30.9,1,Entry
+Valdosta,33968.0,24582.0,29.2,1,Entry
+Mobile,5651.75,24532.0,49.474999999999994,4,Up and Coming
+Winston-Salem,17454.0,24350.0,38.7,1,Entry
+Black Eagle,1087.0,24320.0,45.1,1,Entry
+Roxboro,10821.0,23721.0,40.5,1,Entry
+Braddock,9339.0,23403.0,35.6,1,Entry
+Tuscaloosa,36782.0,23372.0,23.100000000000005,3,Entry
+Champaign,35792.0,22470.0,21.9,2,Entry
+Fort Pierce,10498.0,22183.5,40.55,2,Entry
+Anniston,19500.0,22054.0,37.9,1,Entry
+Sioux City,5089.5,21879.5,38.1,2,Entry
+Lubbock,13512.0,21571.75,23.425,4,Up and Coming
+Shreveport,8593.0,21552.5,36.25,2,Entry
+Snowshoe,60.0,21438.0,51.5,1,Entry
+Muskegon,1008.0,21397.0,41.9,3,Entry
+Terre Haute,12814.0,21360.0,28.2,1,Entry
+Detroit,12565.5,20825.666666666668,38.466666666666676,12,Up and Coming
+Duquesne,5581.0,20152.0,38.6,1,Entry
+Tecopa,108.0,20000.0,57.5,1,Entry
+Embudo,415.0,19881.0,63.2,1,Entry
+North Little Rock,12218.0,19123.0,33.9,2,Entry
+Doe Run,1108.0,18764.0,37.7,1,Entry
+Macon,9049.0,18642.0,33.2,3,Entry
+South Bend,5851.0,16806.0,35.7,3,Entry
+West Ossipee,350.0,16278.0,47.7,1,Entry
+Big Flat,199.0,14337.0,73.3,1,Entry
+Youngstown,914.0,10587.0,41.3,1,Entry
+Monhegan,45.0,7000.0,35.8,1,Entry
